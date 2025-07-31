@@ -1,5 +1,8 @@
-<h3 align="center"> 🌟PSBigBig (Purple Star)🌟 — Creator of WFGY</h3>
-<p align="center">Semantic tools for LLMs. No hacks. Real cognition.</p>
+<h1 align="center"> 🌟PSBigBig (Purple Star)🌟 </h1>
+<p align="center">
+  Inventor of the WFGY Engine — pushing LLMs beyond tricks into cognition.<br>
+  Debugging hallucinations, paradoxes, and semantic collapse — at scale.
+</p>
 
 ---
 
