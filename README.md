@@ -1,9 +1,7 @@
-<h3 align="center">PSBigBig (Purple Star) — Creator of WFGY</h3>
+<h3 align="center"> 🌟PSBigBig (Purple Star)🌟 — Creator of WFGY</h3>
 <p align="center">Semantic tools for LLMs. No hacks. Real cognition.</p>
 
 ---
-
-### 🌟 PSBigBig Projects
 
 |  Project | Description |
 |-----------|-------------|
@@ -13,8 +11,6 @@
 | [`SemanticBlueprint`](https://github.com/onestardao/WFGY/blob/main/SemanticBlueprint/README.md) | Symbolic architecture for scalable cognitive alignment |
 
 ---
-
-### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onestardao&show_icons=true&theme=tokyonight&count_private=true" height="140" />
