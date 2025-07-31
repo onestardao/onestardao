@@ -4,18 +4,7 @@
   Debugging hallucinations, paradoxes, and semantic collapse — at scale.
 </p>
 
----
 
-<div align="center">
-
-| 🌟 Project | Description |
-|-----------|-------------|
-| [`WFGY`](https://github.com/onestardao/WFGY) | Semantic reasoning engine for LLMs — no hacks, just cognition |
-| [`TXT OS`](https://github.com/onestardao/WFGY/blob/main/OS/README.md) | Minimalist text-only OS for modular logic & control |
-| [`ProblemMap`](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) | 19 real RAG & LLM failure modes — fully solved with WFGY |
-| [`SemanticBlueprint`](https://github.com/onestardao/WFGY/blob/main/SemanticBlueprint/README.md) | Symbolic architecture for scalable cognitive alignment |
-
-</div>
 
 
 ---
