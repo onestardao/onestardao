@@ -4,6 +4,8 @@
 
 ---
 
+[🔗 View the full WFGY repo →](https://github.com/onestardao/WFGY)
+
 ### 🚀 Launch to Impact (50 days)
 
 WFGY officially launched on **June 15, 2025**.
