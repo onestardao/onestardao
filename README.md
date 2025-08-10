@@ -7,6 +7,8 @@ WFGY officially launched on **June 15, 2025**.
 Thanks to the open-source community and devs facing real-world hallucination bugs,  
 we’ve hit **400+ stars in just 55 days** — all organic, no marketing, no hype.
 
+<br>
+
 <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/20b1c94b-8262-412a-9010-dfa4fc322aee" 
@@ -18,7 +20,7 @@ we’ve hit **400+ stars in just 55 days** — all organic, no marketing, no hyp
   <sub><em>From 0 to 400+ stars in 55 days — all organic, all problem-driven.</em></sub>
 </div>
 
-
+<br>
 
 > Every star means a real problem solved: OCR drift, FAISS mismatch, broken pipelines, and more.  
 > From semantic collapse to logic crashes, we’re building **fix-first reasoning tools** that just work.
