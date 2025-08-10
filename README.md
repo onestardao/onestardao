@@ -16,7 +16,7 @@
 
 ### 🚀 Launch to Impact (55 days)
 
-WFGY officially launched on **June 15, 2025**.
+[WFGY (WanFaGuiYi) Repo](https://github.com/onestardao/WFGY) officially launched on **June 15, 2025**.
 
 Thanks to the open-source community and devs facing real-world hallucination bugs,  
 we’ve hit **400+ stars in just 55 days** — all organic, no marketing, no hype.
