@@ -9,6 +9,11 @@
   <sub><em>From 0 to 400+ stars in 55 days — all organic, all problem-driven.</em></sub>
 </div>
 
+<br>
+
+> If this project helps you solve a real bug, a ⭐ helps others discover it too.
+
+
 ### 🚀 Launch to Impact (55 days)
 
 WFGY officially launched on **June 15, 2025**.
