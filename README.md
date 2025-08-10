@@ -8,10 +8,16 @@ Thanks to the open-source community and devs facing real-world hallucination bug
 we’ve hit **400+ stars in just 55 days** — all organic, no marketing, no hype.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/20b1c94b-8262-412a-9010-dfa4fc322aee" width="720" alt="Star history of WFGY as of 2025-08-10">
+  <img 
+    src="https://github.com/user-attachments/assets/20b1c94b-8262-412a-9010-dfa4fc322aee" 
+    width="600" 
+    height="350" 
+    alt="Star history of WFGY as of 2025-08-10"
+  >
   <br />
-  <sub><em>Growth snapshot — from zero to 400+ stars in 55 days, powered by real devs with real problems.</em></sub>
+  <sub><em>From 0 to 400+ stars in 55 days — all organic, all problem-driven.</em></sub>
 </div>
+
 
 
 > Every star means a real problem solved: OCR drift, FAISS mismatch, broken pipelines, and more.  
