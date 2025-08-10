@@ -1,14 +1,3 @@
-[🔗 View the full WFGY repo →](https://github.com/onestardao/WFGY)
-
-### 🚀 Launch to Impact (55 days)
-
-WFGY officially launched on **June 15, 2025**.
-
-Thanks to the open-source community and devs facing real-world hallucination bugs,  
-we’ve hit **400+ stars in just 55 days** — all organic, no marketing, no hype.
-
-<br>
-
 <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/20b1c94b-8262-412a-9010-dfa4fc322aee" 
@@ -19,6 +8,13 @@ we’ve hit **400+ stars in just 55 days** — all organic, no marketing, no hyp
   <br />
   <sub><em>From 0 to 400+ stars in 55 days — all organic, all problem-driven.</em></sub>
 </div>
+
+### 🚀 Launch to Impact (55 days)
+
+WFGY officially launched on **June 15, 2025**.
+
+Thanks to the open-source community and devs facing real-world hallucination bugs,  
+we’ve hit **400+ stars in just 55 days** — all organic, no marketing, no hype.
 
 <br>
 
