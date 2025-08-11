@@ -1,12 +1,15 @@
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/20b1c94b-8262-412a-9010-dfa4fc322aee" 
+    src="https://github.com/user-attachments/assets/9a2cf35f-54e5-48d7-98ad-4b1a7fb0b0e7" 
     width="600" 
     height="350" 
     alt="Star history of WFGY as of 2025-08-10"
   >
+
+
+
   <br />
-  <sub><em>From 0 to 400+ stars in 55 days — all organic, all problem-driven.</em></sub>
+  <sub><em>From 0 to 450+ stars in 60 days — all organic, all problem-driven.</em></sub>
 </div>
 
 <br>
