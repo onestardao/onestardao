@@ -1,12 +1,12 @@
 # 🎉 Celebrating 500 Stars in 60 Days — Thank You!  
 
-We’ve just crossed **500 stars** in only 60 days — all organic, all problem-driven.  
+From a **one-man cold start** to **500 stars in 60 days** — all organic, all problem-driven.  
 A huge thank you to everyone who believed early and used WFGY to solve real-world bugs.  
 You’re not just users — you’re part of the rescue team now. 🚀  
 
 As a milestone reward, **WFGY Core** will be released on **Aug 15** —  
-the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).  
-Next goal: **1000 stars** → unlock the second TXT OS app: **Blur Blur Blur**.
+the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
+
 
 ---
 
