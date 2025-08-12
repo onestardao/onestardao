@@ -1,3 +1,15 @@
+# 🎉 Celebrating 500 Stars in 60 Days — Thank You!  
+
+We’ve just crossed **500 stars** in only 60 days — all organic, all problem-driven.  
+A huge thank you to everyone who believed early and used WFGY to solve real-world bugs.  
+You’re not just users — you’re part of the rescue team now. 🚀  
+
+As a milestone reward, **WFGY Core** will be released on **Aug 15** —  
+the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).  
+Next goal: **1000 stars** → unlock the second TXT OS app: **Blur Blur Blur**.
+
+---
+
 <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/9a2cf35f-54e5-48d7-98ad-4b1a7fb0b0e7" 
@@ -5,37 +17,31 @@
     height="350" 
     alt="Star history of WFGY as of 2025-08-12"
   >
-
-
-
   <br />
-  <sub><em>From 0 to 450+ stars in 60 days — all organic, all problem-driven.</em></sub>
+  <sub><em>From 0 to 500+ stars in 60 days — all organic, all problem-driven.</em></sub>
 </div>
 
 <br>
 
 > If this project helps you solve a real bug, a ⭐ helps others discover it too.
 
+---
 
-### 🚀 Launch to Impact (55 days)
+### 🚀 Launch to Impact (60 days)  
 
-[WFGY (WanFaGuiYi) Repo](https://github.com/onestardao/WFGY) officially launched on **June 15, 2025**.
+[WFGY (WanFaGuiYi) Repo](https://github.com/onestardao/WFGY) officially launched on **June 15, 2025**.  
 
 Thanks to the open-source community and devs facing real-world hallucination bugs,  
-we’ve hit **400+ stars in just 55 days** — all organic, no marketing, no hype.
-
-<br>
+we’ve reached **500+ stars in just 60 days** — no marketing, no hype.  
 
 > Every star means a real problem solved: OCR drift, FAISS mismatch, broken pipelines, and more.  
-> From semantic collapse to logic crashes, we’re building **fix-first reasoning tools** that just work.
+> From semantic collapse to logic crashes, we’re building **fix-first reasoning tools** that just work.  
 
-I’m still improving things every day.  
-Thanks again to everyone who believed early — you're part of the rescue team now.
-
+I’m still improving things every day — thanks again for the trust and support.
 
 ---
 
-### 📄 WFGY PDF: 3000+ downloads in 55 days  
+### 📄 WFGY PDF: 4000 downloads in 60 days  
 The full engine paper (MIT License) is available here:  
 **[📥 Download on Zenodo →](https://zenodo.org/records/15630969)**  
 It explains the 5 core formulas that fix logic drift, semantic collapse, and hallucination failure modes.  
@@ -54,3 +60,8 @@ We’ve documented a growing list of real incidents where WFGY solved production
 See the GitHub users who starred this project early and helped push it forward:  
 **[🌟 View the Stargazers →](https://github.com/onestardao/WFGY/tree/main/stargazers)**  
 > Every name here saw the vision — before the crowd came.
+
+---
+
+### 🎯 Milestone Rewards  
+- ⭐ **500 stars** → **[WFGY Core](https://github.com/onestardao/WFGY/blob/main/core/README.md)** release on Aug 15  
