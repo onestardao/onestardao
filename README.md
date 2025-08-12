@@ -9,12 +9,11 @@ As a milestone reward, **WFGY Core** will be released on **Aug 15** —
 the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
 
 
-
 ---
 
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/9a2cf35f-54e5-48d7-98ad-4b1a7fb0b0e7" 
+    src="https://github.com/user-attachments/assets/cdc0a4ae-ba06-47f2-8907-6575d3af2ddb" 
     width="600" 
     height="350" 
     alt="Star history of WFGY as of 2025-08-12"
