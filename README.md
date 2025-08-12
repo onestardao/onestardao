@@ -1,11 +1,13 @@
 # 🎉 Celebrating 500 Stars in 60 Days — Thank You!  
 
 From a **one-man cold start** to **500 stars in 60 days** — all organic, all problem-driven.  
+(WFGY 1.0 was first released on **June 15**, so we actually hit this milestone in **under 60 days**.)  
 A huge thank you to everyone who believed early and used WFGY to solve real-world bugs.  
 You’re not just users — you’re part of the rescue team now. 🚀  
 
 As a milestone reward, **WFGY Core** will be released on **Aug 15** —  
 the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
+
 
 
 ---
