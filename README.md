@@ -26,7 +26,7 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
 
 <br>
 
-> If this project helps you solve a real bug, a ⭐ helps others discover it too.
+> If this project helps you solve a real bug, a ⭐ helps others discover it too. <img src="https://img.shields.io/github/stars/onestardao/WFGY?style=social" alt="GitHub stars">  
 
 ---
 
