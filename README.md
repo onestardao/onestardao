@@ -1,6 +1,6 @@
-# 🎉 Celebrating 500 Stars in 60 Days — Thank You!  
+# 🎉 Celebrating 550+ Stars in 60 Days — Thank You!  
 
-From a **one-man cold start** to **500 stars in 60 days** — all organic, all problem-driven.  
+From a **one-man cold start** to **550 stars in 60 days** — all organic, all problem-driven.  
 (WFGY 1.0 was first released on **June 15**, so we actually hit this milestone in **under 60 days**.)  
 A huge thank you to everyone who believed early and used WFGY to solve real-world bugs.  
 You’re not just users — you’re part of the rescue team now. 🚀  
@@ -19,7 +19,7 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
     alt="Star history of WFGY as of 2025-08-12"
   >
   <br />
-  <sub><em>From 0 to 500+ stars in 60 days — all organic, all problem-driven.</em></sub>
+  <sub><em>From 0 to 550+ stars in 60 days — all organic, all problem-driven.</em></sub>
 </div>
 
 <br>
@@ -33,7 +33,7 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
 [WFGY (WanFaGuiYi) Repo](https://github.com/onestardao/WFGY) officially launched on **June 15, 2025**.  
 
 Thanks to the open-source community and devs facing real-world hallucination bugs,  
-we’ve reached **500+ stars in just 60 days** — no marketing, no hype.  
+we’ve reached **550+ stars in just 60 days** — no marketing, no hype.  
 
 > Every star means a real problem solved: OCR drift, FAISS mismatch, broken pipelines, and more.  
 > From semantic collapse to logic crashes, we’re building **fix-first reasoning tools** that just work.  
