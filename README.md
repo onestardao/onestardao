@@ -34,7 +34,7 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
 [WFGY (WanFaGuiYi) Repo](https://github.com/onestardao/WFGY) officially launched on **June 15, 2025**.  
 
 Thanks to the open-source community and devs facing real-world hallucination bugs,  
-we’ve reached **550+ stars in just 60 days** — no marketing, no hype.  
+we’ve reached **600 stars in just 60 days** — no marketing, no hype.  
 
 > Every star means a real problem solved: OCR drift, FAISS mismatch, broken pipelines, and more.  
 > From semantic collapse to logic crashes, we’re building **fix-first reasoning tools** that just work.  
