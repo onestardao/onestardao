@@ -66,4 +66,4 @@ See the GitHub users who starred this project early and helped push it forward:
 ---
 
 ### 🎯 Milestone Rewards  
-- ⭐ **500 stars** → **[WFGY Core](https://github.com/onestardao/WFGY/blob/main/core/README.md)** release on Aug 15  
+- ⭐ **500 stars** → **[WFGY Core](https://github.com/onestardao/WFGY/blob/main/core/README.md)** release on 2025 Aug 15  
