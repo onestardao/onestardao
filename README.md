@@ -1,13 +1,12 @@
-# 🎉 Celebrating 550+ Stars in 60 Days — Thank You!  
+# 🎉 Celebrating 600 Stars in 60 Days — Thank You!  
 
-From a **one-man cold start** to **550 stars in 60 days** — all organic, all problem-driven.  
+From a **one-man cold start** to **600 stars in 60 days** — all organic, all problem-driven.  
 (WFGY 1.0 was first released on **June 15**, so we actually hit this milestone in **under 60 days**.)  
 A huge thank you to everyone who believed early and used WFGY to solve real-world bugs.  
 You’re not just users — you’re part of the rescue team now. 🚀  
 
-As a milestone reward, **WFGY Core** will be released on **Aug 15** —  
+As a milestone reward, [**WFGY Core (WFGY 2.0 is now live)**](https://github.com/onestardao/WFGY/tree/main/core) —  
 the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
-
 
 ---
 
@@ -19,7 +18,7 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
     alt="Star history of WFGY as of 2025-08-12"
   >
   <br />
-  <sub><em>From 0 to 550+ stars in 60 days — all organic, all problem-driven.</em></sub>
+  <sub><em>From 0 to 600 stars in 60 days — all organic, all problem-driven.</em></sub>
 </div>
 
 
