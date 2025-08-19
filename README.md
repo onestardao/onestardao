@@ -1,19 +1,6 @@
 # 🎉 Celebrating 600 Stars in 60 Days — Thank You!
 
-<!-- =============================== -->
-<!-- 🚩 Starter Village: BEGIN -->
-<div align="center">
-
-### 🧭 New here?
-<a href="https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md">
-  <img src="https://img.shields.io/badge/Start_here-⚡%2060s_Quickstart-1b1f23?logo=github&logoColor=white" alt="Starter Village 60s Quickstart">
-</a>
-
-**Not sure where to start?**  
-**→ [Starter Village: 60-second Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)**
-</div>
-<!-- 🚩 Starter Village: END -->
-<!-- =============================== -->
+👉 Don’t know where to start? → [Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)
 
 From a **one-man cold start** to **600 stars in 60 days** — all organic, all problem-driven.  
 (WFGY 1.0 was first released on **June 15**, so we actually hit this milestone in **under 60 days**.)  
@@ -53,11 +40,6 @@ we’ve reached **600 stars in just 60 days** — no marketing, no hype.
 > From semantic collapse to logic crashes, we’re building **fix-first reasoning tools** that just work.
 
 I’m still improving things every day — thanks again for the trust and support.
-
----
-
-### 📥 New to WFGY? Start here (again, in case you missed it)
-**[Starter Village: 60-second Quickstart →](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)**
 
 ---
 
