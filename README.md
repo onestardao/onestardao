@@ -61,14 +61,6 @@ I’m still improving things every day — thanks again for the trust and suppor
 
 ---
 
-### 📄 WFGY PDF: 4000 downloads in 60 days
-The full engine paper (MIT License) is available here:  
-**[📥 Download on Zenodo →](https://zenodo.org/records/15630969)**  
-It explains the 5 core formulas that fix logic drift, semantic collapse, and hallucination failure modes.  
-> Built from real field bugs, not theory — and now helping hundreds debug LLMs more reliably.
-
----
-
 ### 🪖 Hero Log: Real users. Real saves.
 We’ve documented a growing list of real incidents where WFGY solved production issues:  
 **[🧭 Explore the Hero Log →](https://github.com/onestardao/WFGY/discussions/10)**  
