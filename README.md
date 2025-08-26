@@ -16,14 +16,16 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
 
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/103df2e4-8799-43f1-a7b8-07d1ade68f05" 
+    src="https://github.com/user-attachments/assets/fa25253b-aadf-4ab1-94ad-8808186e10c2" 
     width="600" 
     height="350" 
-    alt="Star history of WFGY as of 2025-08-12"
+    alt="Star history of WFGY as of 2025-08-26"
   >
   <br />
   <sub><em>From 0 to 600 stars in 60 days — all organic, all problem-driven.</em></sub>
 </div>
+
+
 
 <br>
 
