@@ -33,7 +33,7 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
 
 ---
 
-### 🚀 Launch to Impact (60 days)
+### 🚀 Launch to Impact (70 days)
 
 [WFGY (WanFaGuiYi) Repo](https://github.com/onestardao/WFGY) officially launched on **June 15, 2025**.  
 
