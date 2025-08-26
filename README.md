@@ -4,7 +4,7 @@
 
 From a **one-man cold start** to **800 stars in 70 days** — all organic, all problem-driven.  
 (WFGY 1.0 was first released on **June 15**, so we actually hit this milestone in **under 70 days**.)  
-_(That’s from June 15 → August 15 — full sprint, zero ads.)_
+_(That’s from June 15 → August 25 — full sprint, zero ads.)_
 
 A huge thank you to everyone who believed early and used WFGY to solve real-world bugs.  
 You’re not just users — you’re part of the rescue team now. 🚀
