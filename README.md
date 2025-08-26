@@ -1,9 +1,9 @@
-# 🎉 Celebrating 600 Stars in 60 Days — Thank You!
+# 🎉 Celebrating 800 Stars in 70 Days — Thank You!
 
 👉 Don’t know where to start? → [Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)
 
-From a **one-man cold start** to **600 stars in 60 days** — all organic, all problem-driven.  
-(WFGY 1.0 was first released on **June 15**, so we actually hit this milestone in **under 60 days**.)  
+From a **one-man cold start** to **800 stars in 70 days** — all organic, all problem-driven.  
+(WFGY 1.0 was first released on **June 15**, so we actually hit this milestone in **under 70 days**.)  
 _(That’s from June 15 → August 15 — full sprint, zero ads.)_
 
 A huge thank you to everyone who believed early and used WFGY to solve real-world bugs.  
@@ -22,7 +22,7 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
     alt="Star history of WFGY as of 2025-08-26"
   >
   <br />
-  <sub><em>From 0 to 600 stars in 60 days — all organic, all problem-driven.</em></sub>
+  <sub><em>From 0 to 800 stars in 70 days — all organic, all problem-driven.</em></sub>
 </div>
 
 
@@ -38,7 +38,7 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
 [WFGY (WanFaGuiYi) Repo](https://github.com/onestardao/WFGY) officially launched on **June 15, 2025**.  
 
 Thanks to the open-source community and devs facing real-world hallucination bugs,  
-we’ve reached **600 stars in just 60 days** — no marketing, no hype.
+we’ve reached **800 stars in just 70 days** — no marketing, no hype.
 
 > Every star means a real problem solved: OCR drift, FAISS mismatch, broken pipelines, and more.  
 > From semantic collapse to logic crashes, we’re building **fix-first reasoning tools** that just work.
