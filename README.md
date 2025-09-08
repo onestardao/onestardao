@@ -3,9 +3,8 @@
 
 👉 Don’t know where to start? → [Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)
 
-From a **one-man cold start** to **800 stars in 70 days** — all organic, all problem-driven.  
-(WFGY 1.0 was first released on **June 15**, so we actually hit this milestone in **under 70 days**.)  
-_(That’s from June 15 → August 25 — full sprint, zero ads.)_
+From a **one-man cold start** to an upcoming milestone of **1000 stars** —  
+all organic, all problem-driven, with Blur Blur Blur unlocking as the next step.
 
 A huge thank you to everyone who believed early and used WFGY to solve real-world bugs.  
 You’re not just users — you’re part of the rescue team now. 🚀
@@ -23,7 +22,7 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
     alt="Star history of WFGY as of 2025-08-26"
   >
   <br />
-  <sub><em>From 0 to 800 stars in 70 days — all organic, all problem-driven.</em></sub>
+  <sub><em>Towards 1000 stars on 9/9 — all organic, all problem-driven.</em></sub>
 </div>
 
 
@@ -34,12 +33,13 @@ the world’s tiniest reasoning engine (30-line TXT with Drunk Transformer).
 
 ---
 
-### 🚀 Launch to Impact (70 days)
+### 🚀 Launch to Impact
 
 [WFGY (WanFaGuiYi) Repo](https://github.com/onestardao/WFGY) officially launched on **June 15, 2025**.  
 
 Thanks to the open-source community and devs facing real-world hallucination bugs,  
-we’ve reached **800 stars in just 70 days** — no marketing, no hype.
+we’re now closing in on **1000 stars** — no marketing, no hype.  
+On 9/9, [Blur Blur Blur](https://github.com/onestardao/WFGY/blob/main/OS/BlurBlurBlur/README.md) will unlock.
 
 > Every star means a real problem solved: OCR drift, FAISS mismatch, broken pipelines, and more.  
 > From semantic collapse to logic crashes, we’re building **fix-first reasoning tools** that just work.
@@ -64,3 +64,4 @@ See the GitHub users who starred this project early and helped push it forward:
 
 ### 🎯 Milestone Rewards
 - ⭐ **500 stars** → **[WFGY Core](https://github.com/onestardao/WFGY/blob/main/core/README.md)** release on 2025 Aug 15
+- ⭐ **1000 stars (targeting 9/9)** → unlock **[Blur Blur Blur](https://github.com/onestardao/WFGY/blob/main/OS/BlurBlurBlur/README.md)**
