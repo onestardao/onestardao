@@ -1,4 +1,5 @@
-# 🎉 Celebrating 800 Stars in 70 Days — Thank You!
+> almost at 1000 ⭐ once we hit it i’ll unlock [Blur Blur Blur](https://github.com/onestardao/WFGY/blob/main/OS/BlurBlurBlur/README.md), the math-to-image engine.  
+> mark your calendars — it’ll officially go live later on 9/9.
 
 👉 Don’t know where to start? → [Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)
 
