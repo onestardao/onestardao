@@ -17,7 +17,7 @@ the world’s tiniest reasoning engine (30-line TXT with the Drunk Transformer).
 
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/08fbb752-afa6-46fd-87f5-3d3f26014a20" 
+    src="https://github.com/user-attachments/assets/0ae86f39-53ba-4106-baaf-f94c6815b602" 
     width="600" 
     height="350" 
     alt="Star history of WFGY as of 2025-09-09"
