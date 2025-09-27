@@ -44,12 +44,6 @@ With this milestone, Blur Blur Blur is open for everyone.
 > Every star marks a real fix: OCR drift, FAISS mismatch, broken RAG pipelines, semantic collapse.  
 > WFGY is not a demo, it’s a set of **fix-first reasoning products**.
 
----
-
-### 🪖 Hero Log: Real users. Real saves.
-A growing list of incidents where WFGY solved production issues:  
-**[🧭 Explore the Hero Log →](https://github.com/onestardao/WFGY/discussions/10)**  
-> From invisible OCR bugs to RAG contradictions, these are real-world rescues.
 
 ---
 
