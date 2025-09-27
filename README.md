@@ -1,6 +1,7 @@
 > We made it — **1000 ⭐ in one season**.  
 > From a **one-man cold start** to a thousand stars, all organic, all problem-driven.  
-> As promised, [**Blur Blur Blur**](https://github.com/onestardao/WFGY/blob/main/OS/BlurBlurBlur/README.md) is now unlocked — the math-to-image engine goes live today.
+> As promised, [**Blur Blur Blur**](https://github.com/onestardao/WFGY/blob/main/OS/BlurBlurBlur/README.md) is now unlocked — the math-to-image engine goes live today.  
+> 📌 We are also entering the **Stanford Terminal-Bench exam** — follow updates on [WFGY Core 2.0 → Terminal-Bench Proof](https://github.com/onestardao/WFGY/blob/main/core/README.md#terminal-bench-proof).
 
 👉 Don’t know where to start? → [Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)
 
@@ -12,6 +13,7 @@ You’re not just users — you’re part of the rescue crew.
 
 As a milestone reward, [**WFGY Core (2.0 live)**](https://github.com/onestardao/WFGY/tree/main/core) remains here too —  
 the world’s tiniest reasoning engine (30-line TXT with the Drunk Transformer).
+
 
 ---
 
