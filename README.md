@@ -1,59 +1,51 @@
-> We made it — **1000 ⭐ in one season**.  
-> From a **one-man cold start** to a thousand stars, all organic, all problem-driven.  
-> As promised, [**Blur Blur Blur**](https://github.com/onestardao/WFGY/blob/main/OS/BlurBlurBlur/README.md) is now unlocked — the math-to-image engine goes live today.  
-> 📌 We are also entering the **Stanford Terminal-Bench exam** — follow updates on [WFGY Core 2.0 → Terminal-Bench Proof](https://github.com/onestardao/WFGY/blob/main/core/README.md#terminal-bench-proof).
+> Quick status update — yes, I’m still alive 🙂
 
-👉 Don’t know where to start? → [Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)
+Over the past few months, I’ve been working quietly on **two main tracks** at the same time:
 
-Unlike most repos that ship one tool per project, **WFGY is a full ecosystem in one place**.  
-Every product unlocks with just one star, and each milestone reveals something new.  
+1. **Terminal-Bench (TB)** — treating it as a real exam, not a demo  
+2. **Tension Universe (TU)** — a new structural framework exploring the limits of scaling-based intelligence
 
-A huge thank you to everyone who believed early and used WFGY to fix real-world bugs.  
-You’re not just users — you’re part of the rescue crew.
+Both are very different kinds of work, and both required long stretches of offline focus.  
+That’s why things looked quiet here for a while.
 
-As a milestone reward, [**WFGY Core (2.0 live)**](https://github.com/onestardao/WFGY/tree/main/core) remains here too —  
-the world’s tiniest reasoning engine (30-line TXT with the Drunk Transformer).
-
+I’m back now, and this repo is active again.
 
 ---
 
-<div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/0ae86f39-53ba-4106-baaf-f94c6815b602" 
-    width="600" 
-    height="350" 
-    alt="Star history of WFGY as of 2025-09-09"
-  >
-  <br />
-  <sub><em>1000 stars in one season — cold start, one man, many products.</em></sub>
-</div>
+### What I’m working on right now
 
-<br>
+**Terminal-Bench**  
+TB is being approached as a serious systems exam: reproducibility, failure modes, and long-horizon behavior.  
+Not benchmark chasing — stress testing what actually breaks.
 
-> If this project helps you solve a real bug, a ⭐ helps others discover it too.  
-> <img src="https://img.shields.io/github/stars/onestardao/WFGY?style=social" alt="GitHub stars">
+**Tension Universe (candidate)**  
+TU explores a different question:  
+what if some reasoning failures don’t disappear with more compute, but are tied to structure instead?
 
----
+At this stage, TU is intentionally exposed only at the **Effective Layer**.  
+The goal is not to declare a theory finished, but to pressure-test whether explanations remain stable under reruns and challenges.
 
-### 🚀 Launch to Impact
-The [WFGY Repo](https://github.com/onestardao/WFGY) officially launched on **June 15, 2025**.  
-
-In less than a season we crossed **1000 stars** — no marketing, no ads, just devs solving bugs.  
-With this milestone, Blur Blur Blur is open for everyone.
-
-> Every star marks a real fix: OCR drift, FAISS mismatch, broken RAG pipelines, semantic collapse.  
-> WFGY is not a demo, it’s a set of **fix-first reasoning products**.
-
+If you’re curious about TU, the current public scope lives here:
+[Tension Universe →](./TensionUniverse/README.md)
 
 ---
 
-### 🏅 Hall of Fame: Early Stars & Believers
-See the GitHub users who starred this project early:  
-**[🌟 View the Stargazers →](https://github.com/onestardao/WFGY/tree/main/stargazers)**  
-> Every name here is part of the story.
+If you’re new and wondering where to start, this is still the easiest entry:
+👉 [Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)
+
+Unlike most repos that ship a single tool, **WFGY is an ecosystem of fix-first reasoning components**.  
+Everything here exists because some real system broke first.
+
+Thank you to everyone who stuck around, tested things, or quietly used WFGY to fix real bugs.  
+More experiments, failures, and interesting artifacts are coming.
 
 ---
 
-### 🎯 Milestone Rewards
-- ⭐ **500 stars** → [WFGY Core](https://github.com/onestardao/WFGY/blob/main/core/README.md) released Aug 15, 2025  
-- ⭐ **1000 stars (achieved)** → [Blur Blur Blur](https://github.com/onestardao/WFGY/blob/main/OS/BlurBlurBlur/README.md) unlocked Sep 9, 2025
+### Join the discussion
+
+If you want to follow along more closely, ask questions, or challenge ideas as they evolve,  
+the main discussion space is here:
+
+**Discord → https://discord.gg/wvueqkFsp7**
+
+We’re back to building.
