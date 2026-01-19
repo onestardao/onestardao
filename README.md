@@ -46,7 +46,7 @@ More experiments, failures, and interesting artifacts are coming.
 If you want to follow along more closely, ask questions, or challenge ideas as they evolve,  
 the main discussion space is here:
 
-**Discord → https://discord.gg/wvueqkFsp7**
+**Discord → [https://discord.gg/KRxBsr6GYx](https://discord.gg/KRxBsr6GYx)**
 
 We’re back to building.
 
