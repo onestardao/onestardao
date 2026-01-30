@@ -1,32 +1,18 @@
-> Quick status update — yes, I’m still alive 🙂
+I build **WFGY** — a verification-first reasoning engine focused on reproducibility, failure isolation, and structural limits.
 
-Over the past few months, I’ve been working quietly on **two main tracks** at the same time:
+If you are new, start with the beginner guides below.  
+They are practical, runnable, and designed to show what WFGY actually does.
 
-1. **Terminal-Bench (TB)** — treating it as a real exam, not a demo  
-2. **Tension Universe (TU)** — a new structural framework exploring the limits of scaling-based intelligence
+> **WFGY 3.0 · Singularity Demo**  
+> Scheduled to go live on **2026-01-31**.  
+> verify sha256, then run the 60s reproduction.
 
-Both are very different kinds of work, and both required long stretches of offline focus.  
-That’s why things looked quiet here for a while.
+I do not claim to have solved open problems.  
+Everything here is a demo, an experiment, or a reproducible probe.
 
-I’m back now, and this repo is active again.
+Scroll down if you want tutorials.  
+Stay if you are curious why this repo looks this quiet.
 
----
-
-### What I’m working on right now
-
-**Terminal-Bench**  
-TB is being approached as a serious systems exam: reproducibility, failure modes, and long-horizon behavior.  
-Not benchmark chasing — stress testing what actually breaks.
-
-**Tension Universe (candidate)**  
-TU explores a different question:  
-what if some reasoning failures don’t disappear with more compute, but are tied to structure instead?
-
-At this stage, TU is intentionally exposed only at the **Effective Layer**.  
-The goal is not to declare a theory finished, but to pressure-test whether explanations remain stable under reruns and challenges.
-
-If you’re curious about TU, the current public scope lives here:
-[Tension Universe →](./TensionUniverse/README.md)
 
 ---
 
