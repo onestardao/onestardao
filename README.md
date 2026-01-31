@@ -3,7 +3,7 @@ I build **WFGY** — a verification-first reasoning engine focused on reproducib
 If you are new, start with the beginner guides below.  
 They are practical, runnable, and designed to show what WFGY actually does.
 
-> **WFGY 3.0 · Singularity Demo**  
+> **[WFGY 3.0 · Singularity Demo](https://github.com/onestardao/WFGY)**  
 > Now live (public view).  
 > See the system state, definitions, and reproducible probes.
 
