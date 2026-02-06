@@ -16,7 +16,7 @@ Over a year of focused work, now released entirely under the MIT License.
 ⭐ **WFGY 3.0 (Frontier · new release)**  
 > The Singularity Demo.  
 > If it works, nothing before it matters.  
-> → [Singularity demo](https://github.com/onestardao/WFGY/)
+> → [Singularity demo](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
 
 ⭐ **WFGY 2.0 (Engineering)**  
 > Core text kernel plus the 16 failure map for real engineering problems  
