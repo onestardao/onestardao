@@ -1,11 +1,13 @@
-![twin_flame](https://github.com/user-attachments/assets/8c62aed1-ffe9-471d-89d5-e7945c8bd68a)
+![twin_flame](https://github.com/user-attachments/assets/762c544a-ca7e-4cc3-a126-c3ab69baa4c2)
 
 ---
 
-We build **WFGY**, a verification first reasoning engine for LLMs.
-
-If you're new, pick one entry point below.  
+We build WFGY, a verification-first reasoning engine for LLMs.
+If you're new, pick one entry point below.
 Each version is a different depth level, not a different product line.
+
+WFGY 1.0, 2.0, and 3.0 are one set.
+Over a year of focused work, now released entirely under the MIT License.
 
 ---
 
