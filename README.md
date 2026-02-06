@@ -7,12 +7,12 @@ Each version is a different depth level, not a different product line.
 
 ## entry points (start from what fits you)
 
-**WFGY 3.0 (Advanced · just launched)**  
-> The Singularity Demo: 131 S-class tension problems in a runnable TXT pack.  
-> Designed for stress testing and independent AI verification.  
+**WFGY 3.0 (Frontier · new release)**  
+> The Singularity Demo.  
+> If it works, nothing before it matters.  
 > → [Singularity demo](https://github.com/onestardao/WFGY/)
 
-**WFGY 2.0 (Intermediate)**  
+**WFGY 2.0 (Engineering)**  
 > Core text kernel plus the 16 failure map for real engineering problems  
 > including RAG systems, vector stores, and deployment chaos.  
 > → [Core](https://github.com/onestardao/WFGY/blob/main/core/README.md) · [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
@@ -21,6 +21,7 @@ Each version is a different depth level, not a different product line.
 > A PDF playbook with formulas, experiments, and the original self-healing framework.  
 > Best if you want to understand the theory and foundations first.  
 > → [Legacy](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)
+
 
 
 ---
