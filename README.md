@@ -1,17 +1,23 @@
-I build **WFGY** — a verification-first reasoning engine focused on reproducibility, failure isolation, and structural limits.
+I build **WFGY**, a verification-first reasoning engine for LLMs.
 
-If you are new, start with the beginner guides below.  
-They are practical, runnable, and designed to show what WFGY actually does.
+If you're new: pick one entry point below.  
+Each version is a different depth level, not a different product line.
 
-> **[WFGY 3.0 · Singularity Demo](https://github.com/onestardao/WFGY)**  
-> Now live (public view).  
-> See the system state, definitions, and reproducible probes.
+---
 
-I do not claim to have solved open problems.  
-Everything here is a demo, an experiment, or a reproducible probe.
+## entry points (1.0 → 3.0)
 
-Scroll down if you want tutorials.  
-Stay if you are curious why this repo looks this quiet.
+**WFGY 1.0 (Beginner)**  
+A PDF playbook: formulas, experiments, and the original self-healing framework.  
+WFGY 1.0 → [Legacy](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)
+
+**WFGY 2.0 (Intermediate)**  
+Core text kernel + the 16 failure map for real engineering problems (RAG, vector stores, deployment chaos).  
+WFGY 2.0 → [Core](https://github.com/onestardao/WFGY/blob/main/core/README.md) · [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
+
+**WFGY 3.0 (Advanced)**  
+The Singularity Demo: 131 S-class tension problems in a runnable TXT pack.  
+WFGY 3.0 → [Event Horizon](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
 
 ---
 
@@ -26,13 +32,13 @@ More experiments, failures, and interesting artifacts are coming.
 
 ---
 
-### Join the discussion
+### join the discussion
 
 If you want to follow along more closely, ask questions, or challenge ideas as they evolve,  
 the main discussion space is here:
 
 **Discord → https://discord.gg/KRxBsr6GYx**
 
-We’re back to building.
+we're back to building.
 
 ![Iamback](https://github.com/user-attachments/assets/f640e179-e4e8-4ba6-9fd8-56fc4bc66d34)
