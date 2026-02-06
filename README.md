@@ -1,3 +1,7 @@
+![twin_flame](https://github.com/user-attachments/assets/8c62aed1-ffe9-471d-89d5-e7945c8bd68a)
+
+---
+
 We build **WFGY**, a verification first reasoning engine for LLMs.
 
 If you're new, pick one entry point below.  
@@ -44,6 +48,4 @@ the main discussion space is here:
 
 **Discord → https://discord.gg/KRxBsr6GYx**
 
-The bows are drawn, the tension is set. Let’s see how far the universe can bend before it breaks.
 
-![twin_flame](https://github.com/user-attachments/assets/8c62aed1-ffe9-471d-89d5-e7945c8bd68a)
