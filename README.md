@@ -1,4 +1,4 @@
-I build **WFGY**, a verification-first reasoning engine for LLMs.
+We build **WFGY**, a verification-first reasoning engine for LLMs.
 
 If you're new: pick one entry point below.  
 Each version is a different depth level, not a different product line.
