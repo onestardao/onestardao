@@ -17,7 +17,7 @@ WFGY 2.0 → [Core](https://github.com/onestardao/WFGY/blob/main/core/README.md)
 
 **WFGY 3.0 (Advanced)**  
 The Singularity Demo: 131 S-class tension problems in a runnable TXT pack.  
-WFGY 3.0 → [Event Horizon](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
+WFGY 3.0 → [Singularity demo](https://github.com/onestardao/WFGY/)
 
 ---
 
