@@ -50,9 +50,11 @@ Independent open-source projects that chose to reference WFGY in their docs:
 - [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) – research tools list; WFGY for LLM/RAG stress-testing.  
 - [awesome-AI-system](https://github.com/lambda7xx/awesome-AI-system) – LLM robustness and debugging section.  
 - [awesome-AI-books](https://github.com/zslucky/awesome-AI-books) – LLM reading list entry for the WFGY TXT/PDF pack.  
-- [awesome-ai-web-search · frameworks discussion](https://github.com/felladrin/awesome-ai-web-search/discussions/15) – RAG failure-mode taxonomy candidate.  
-- [awesome-artificial-intelligence-research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) – NLP section on LLM robustness / debugging / reliability.  
+- [awesome-ai-web-search · frameworks discussion](https://github.com/felladrin/awesome-ai-web-search/discussions/15) – RAG failure-mode taxonomy candidate.
+- [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) – AI tools index; WFGY listed for debugging LLM agents and RAG pipelines with a 16-mode ProblemMap.  
 - [AI-agents-for-cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity) – RAG failure modes reference using the WFGY 16 Problem Map.
+- [awesome-artificial-intelligence-research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) – NLP section on LLM robustness / debugging / reliability.  
+
 
 ---
 
