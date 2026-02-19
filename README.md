@@ -45,14 +45,15 @@ WFGY has been recognized and integrated by leading open-source curated lists and
 
 ### Featured References
 
-* **[Harvard MIMS Lab (ToolUniverse)](https://github.com/mims-harvard/ToolUniverse)** – *Official integration; cited as a core framework for LLM robustness and RAG debugging.*
+* **[Harvard MIMS Lab – ToolUniverse](https://github.com/mims-harvard/ToolUniverse)** – *Contribution merged into main; WFGY included as an LLM robustness and RAG debugging framework entry.*
 * **[Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)** – *Selected research tool for LLM/RAG stress-testing and validation.*
-* **[AI Agents for Cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity)** – *Standard reference for RAG failure modes utilizing the WFGY 16-mode ProblemMap.*
+* **[AI Agents for Cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity)** – *Reference to RAG failure modes utilizing the WFGY 16-mode ProblemMap.*
 * **[Awesome AI Tools](https://github.com/eudk/awesome-ai-tools)** – *Categorized index for debugging complex LLM agents and RAG pipelines.*
-* **[Awesome AI System](https://github.com/lambda7xx/awesome-AI-system)** – *Featured in the dedicated LLM Robustness and Debugging infrastructure section.*
+* **[Awesome AI System](https://github.com/lambda7xx/awesome-AI-system)** – *Featured in the LLM robustness and debugging infrastructure section.*
 * **[Awesome Artificial Intelligence Research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research)** – *Referenced in the NLP reliability and system debugging research directory.*
-* **[Awesome AI Books](https://github.com/zslucky/awesome-AI-books)** – *Included in the essential LLM reading list for comprehensive TXT/PDF methodology.*
+* **[Awesome AI Books](https://github.com/zslucky/awesome-ai-books)** – *Included in the LLM reading list for the WFGY TXT/PDF methodology.*
 * **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search/discussions/15)** – *Framework discussion on RAG failure-mode taxonomy and candidate standards.*
+
 
 ---
 
