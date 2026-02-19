@@ -2,60 +2,57 @@
 
 ---
 
-We build WFGY, a verification-first reasoning engine for LLMs.
-If you're new, pick one entry point below.
-Each version is a different depth level, not a different product line.
+## 🧩 The WFGY Ecosystem
 
-WFGY 1.0, 2.0, and 3.0 are one set.
-Over a year of focused work, now released entirely under the MIT License.
+We build **WFGY**, a verification-first reasoning engine for LLMs. 🚀  
+*One architecture, different depths—not different product lines.*
 
----
-
-## entry points (start from what fits you)
-
-⭐ **WFGY 3.0 (Frontier · new release)**  
-> The Singularity Demo.  
-> If it works, nothing before it matters.  
-> → [Singularity demo](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
-
-⭐ **WFGY 2.0 (Engineering)**  
-> Core text kernel plus the 16 failure map for real engineering problems  
-> including RAG systems, vector stores, and deployment chaos.  
-> → [Core](https://github.com/onestardao/WFGY/blob/main/core/README.md) · [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
-
-⭐ **WFGY 1.0 (Beginner)**  
-> A PDF playbook with formulas, experiments, and the original self healing framework.  
-> Best if you want to understand the theory and foundations first.  
-> → [Legacy](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)
+WFGY 1.0, 2.0, and 3.0 represent a continuous evolution.  
+Over a year of focused development, now fully Open Source under the **MIT License**. ⚖️
 
 ---
 
-If you’re new and wondering where to start, this is still the easiest entry:  
-👉 [Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)
+### 📍 Entry Points (Choose your depth)
 
-Unlike most repos that ship a single tool, **WFGY is an ecosystem of fix first reasoning components**.  
-Everything here exists because some real system broke first.
+* **WFGY 3.0 — The Frontier (New Release)** 🌌  
+    > *The Singularity Demo.* If it works, nothing before it matters.  
+    > ➔ [Singularity Demo](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
 
-Thank you to everyone who stuck around, tested things, or quietly used WFGY to fix real bugs.  
-More experiments, failures, and interesting artifacts are coming.
+* **WFGY 2.0 — Engineering & Production** 🛠️  
+    > Core text kernel + the 16-mode Failure Map for real-world RAG, vector stores, and deployment chaos.  
+    > ➔ [Core Engine](https://github.com/onestardao/WFGY/blob/main/core/README.md) · [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
 
-If you like this project, please consider giving it a star. ⭐
+* **WFGY 1.0 — Foundations & Theory** 📚  
+    > The original PDF playbook. Best for understanding the underlying formulas and self-healing frameworks.  
+    > ➔ [Legacy Theory](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)
 
 ---
 
-### where WFGY is already used as a reference
+### 🚀 Getting Started
+If you’re new and wondering where to begin, start here:  
+👉 **[Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)**
 
-Independent open-source projects that chose to reference WFGY in their docs:
+Unlike traditional tools, **WFGY is an ecosystem of "fix-first" reasoning components**.  
+Everything here was built because a real-world system broke first. 🔧
 
-- [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) – research tools list; WFGY referenced for LLM/RAG stress-testing.  
-- [awesome-AI-books](https://github.com/zslucky/awesome-AI-books) – LLM reading list entry for the WFGY TXT/PDF pack.
-- [ToolUniverse (Harvard MIMS Lab project)](https://github.com/mims-harvard/ToolUniverse) – merged contribution; WFGY included as an LLM robustness / RAG debugging framework entry.  
-- [awesome-AI-system](https://github.com/lambda7xx/awesome-AI-system) – LLM robustness and debugging section.  
-- [awesome-ai-web-search · frameworks discussion](https://github.com/felladrin/awesome-ai-web-search/discussions/15) – RAG failure-mode taxonomy candidate discussion.  
-- [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) – AI tools index; WFGY listed for debugging LLM agents and RAG pipelines with a 16-mode ProblemMap.  
-- [AI-agents-for-cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity) – RAG failure modes reference using the WFGY 16 Problem Map.  
-- [awesome-artificial-intelligence-research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) – NLP section on LLM robustness / debugging / reliability.  
+*Thank you to everyone who tested, debugged, and grew with us. More artifacts and experiments are on the way. If WFGY helps your workflow, please consider giving us a star!* ⭐
 
+---
+
+## 🌐 Recognition & Ecosystem Integration
+
+WFGY has been recognized and integrated by leading open-source curated lists and research frameworks, serving as a reference for LLM robustness, RAG diagnostics, and system reliability.
+
+### Featured References
+
+* **[Harvard MIMS Lab (ToolUniverse)](https://github.com/mims-harvard/ToolUniverse)** – *Official integration; cited as a core framework for LLM robustness and RAG debugging.*
+* **[Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)** – *Selected research tool for LLM/RAG stress-testing and validation.*
+* **[AI Agents for Cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity)** – *Standard reference for RAG failure modes utilizing the WFGY 16-mode ProblemMap.*
+* **[Awesome AI Tools](https://github.com/eudk/awesome-ai-tools)** – *Categorized index for debugging complex LLM agents and RAG pipelines.*
+* **[Awesome AI System](https://github.com/lambda7xx/awesome-AI-system)** – *Featured in the dedicated LLM Robustness and Debugging infrastructure section.*
+* **[Awesome Artificial Intelligence Research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research)** – *Referenced in the NLP reliability and system debugging research directory.*
+* **[Awesome AI Books](https://github.com/zslucky/awesome-AI-books)** – *Included in the essential LLM reading list for comprehensive TXT/PDF methodology.*
+* **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search/discussions/15)** – *Framework discussion on RAG failure-mode taxonomy and candidate standards.*
 
 ---
 
