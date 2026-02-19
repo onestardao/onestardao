@@ -63,8 +63,8 @@ Independent open-source projects that chose to reference WFGY in their docs:
 
 If you want to follow along more closely, ask questions, or challenge ideas as they evolve, join our community across these platforms:
 
-* **Discord** → [Join our Server](https://discord.gg/KRxBsr6GYx) — *Main hub for real-time chat and collaboration.*
-* **Reddit (WFGY)** → [r/WFGY](https://www.reddit.com/r/WFGY/) — *For project updates and general discussion.*
-* **Reddit (Tension Universe)** → [r/TensionUniverse](https://www.reddit.com/r/TensionUniverse/) — *Deep dives into the Tension Universe lore and mechanics.*
+* **Discord** → [Join our Server](https://discord.gg/KRxBsr6GYx) — *Real-time chat & collaboration.*
+* **Reddit (WFGY)** → [r/WFGY](https://www.reddit.com/r/WFGY/) — **[Early Access]** *Freshly launched; help us build the foundation.*
+* **Reddit (Tension Universe)** → [r/TensionUniverse](https://www.reddit.com/r/TensionUniverse/) — **[Early Access]** *Brand new; be among the first to explore.*
 
 If you maintain an AI system, research project, or infra stack and want to explore deeper collaboration around WFGY, feel free to reach out or open an issue.
