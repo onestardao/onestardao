@@ -46,7 +46,7 @@ WFGY has been recognized and integrated by leading open-source curated lists and
 ### Featured References
 
 * **[Harvard MIMS Lab – ToolUniverse](https://github.com/mims-harvard/ToolUniverse)** – *Merged contribution; WFGY included as an LLM robustness / RAG debugging entry.*
-* **[LLM Lab (QCRI-ALT) – Multimodal RAG Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey)** – *Survey + curated resources for multimodal RAG; maintained by the LLM Lab (QCRI-ALT).*
+* **[LLM Lab – QCRI, HBKU](https://github.com/llm-lab-org/Multimodal-RAG-Survey)** – Academic research lab at Qatar Computing Research Institute (HBKU), curating the Multimodal RAG Survey.
 * **[Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)** – *Selected research tool for LLM/RAG stress-testing and validation.*
 * **[AI Agents for Cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity)** – *Reference to RAG failure modes utilizing the WFGY 16-mode ProblemMap.*
 * **[Awesome AI Tools](https://github.com/eudk/awesome-ai-tools)** – *Categorized index for debugging complex LLM agents and RAG pipelines.*
