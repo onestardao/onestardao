@@ -15,15 +15,18 @@ Over a year of focused development, now fully Open Source under the **MIT Licens
 ### 📍 Entry Points (Choose your depth)
 
 * **WFGY 3.0 — The Frontier (New Release)** 🌌  
-    > *The Singularity Demo.* If it works, nothing before it matters.  
+    > A public tension reasoning engine wired to 131 S-class problems.  
+    > If it works on your hardest question, nothing before it matters.  
     > ➔ [Singularity Demo](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
 
 * **WFGY 2.0 — Engineering & Production** 🛠️  
-    > Core text kernel + the 16-mode Failure Map for real-world RAG, vector stores, and deployment chaos.  
+    > The production-grade tension kernel + 16-mode Failure Map  
+    > for real-world RAG, vector stores, and deployment chaos.  
     > ➔ [Core Engine](https://github.com/onestardao/WFGY/blob/main/core/README.md) · [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
 
 * **WFGY 1.0 — Foundations & Theory** 📚  
-    > The original PDF playbook. Best for understanding the underlying formulas and self-healing frameworks.  
+    > The original mathematical playbook.  
+    > Formulas, structure language, and the first self-healing framework.  
     > ➔ [Legacy Theory](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)
 
 ---
