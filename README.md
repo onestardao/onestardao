@@ -48,8 +48,9 @@ WFGY has been recognized and integrated by leading open-source curated lists and
 
 ### Featured References
 
-* **[ToolUniverse – Harvard MIMS Lab](https://github.com/mims-harvard/ToolUniverse)** – *LLM tools benchmark; WFGY listed in the robustness / RAG debugging section.*
-* **[Rankify – Univ. of Innsbruck Data Science Group](https://github.com/DataScienceUIBK/Rankify)** – *Academic RAG toolkit; merged RAG / re-ranking troubleshooting docs.*
+* **[Awesome Data Science – academic](https://github.com/academic/awesome-datascience)** – High-visibility curated list for data science infrastructure; WFGY included as an LLM / RAG failure-mode diagnostic reference.
+* **[ToolUniverse – Harvard MIMS Lab](https://github.com/mims-harvard/ToolUniverse)** – LLM tools benchmark; WFGY listed in the robustness / RAG debugging section.
+* **[Rankify – Univ. of Innsbruck Data Science Group](https://github.com/DataScienceUIBK/Rankify)** – Academic RAG toolkit; merged RAG / re-ranking troubleshooting docs.
 * **[Multimodal RAG Survey – QCRI LLM Lab](https://github.com/llm-lab-org/Multimodal-RAG-Survey)** – Survey repo curating multimodal RAG literature and benchmarks.
 * **[Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)** – Research list for LLM / RAG stress-testing, validation, and deployment.
 * **[AI Agents for Cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity)** – Uses the WFGY 16-mode ProblemMap for practical RAG failure modes.
@@ -58,7 +59,6 @@ WFGY has been recognized and integrated by leading open-source curated lists and
 * **[Awesome Artificial Intelligence Research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research)** – Included in the NLP reliability / system debugging research index.
 * **[Awesome AI Books](https://github.com/zslucky/awesome-ai-books)** – Part of the LLM reading list for TXT / PDF methodology and practice.
 * **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search/discussions/15)** – Discussion on RAG failure-mode taxonomy and emerging candidate standards featuring WFGY.
-
 
 
 ---
