@@ -44,21 +44,29 @@ Everything here was built because a real-world system broke first. 🔧
 
 ## 🌐 Recognition & Ecosystem Integration
 
-WFGY has been recognized and integrated by leading open-source curated lists and research frameworks, serving as a reference for LLM robustness, RAG diagnostics, and system reliability.
+WFGY has been recognized and integrated by mainstream RAG frameworks, academic labs, and curated open-source lists, and is increasingly used as a reference for LLM robustness, RAG diagnostics, and system reliability.
 
-### Featured References
+### 1. Core integrations & research
 
-* **[ToolUniverse – Harvard MIMS Lab](https://github.com/mims-harvard/ToolUniverse)** – *LLM tools benchmark; WFGY listed in the robustness / RAG debugging section.*
-* **[Rankify – Univ. of Innsbruck Data Science Group](https://github.com/DataScienceUIBK/Rankify)** – *Academic RAG toolkit; merged RAG / re-ranking troubleshooting docs.*
-* **[Multimodal RAG Survey – QCRI LLM Lab](https://github.com/llm-lab-org/Multimodal-RAG-Survey)** – Survey repo curating multimodal RAG literature and benchmarks.
-* **[Awesome Data Science – academic](https://github.com/academic/awesome-datascience)** – Curated data science list including WFGY as an LLM / RAG diagnostic reference.
-* **[Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)** – Research list for LLM / RAG stress-testing, validation, and deployment.
-* **[AI Agents for Cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity)** – Uses the WFGY 16-mode ProblemMap for practical RAG failure modes.
-* **[Awesome AI Tools](https://github.com/eudk/awesome-ai-tools)** – Index for debugging complex LLM agents and production RAG pipelines.
-* **[Awesome AI System](https://github.com/lambda7xx/awesome-AI-system)** – Listed under LLM robustness and debugging infrastructure for systems.
-* **[Awesome Artificial Intelligence Research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research)** – Included in the NLP reliability / system debugging research index.
-* **[Awesome AI Books](https://github.com/zslucky/awesome-ai-books)** – Part of the LLM reading list for TXT / PDF methodology and practice.
-* **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search/discussions/15)** – Discussion on RAG failure-mode taxonomy and emerging candidate standards featuring WFGY.
+| Project | Segment | How it uses WFGY ProblemMap | Proof (PR / doc) |
+| --- | --- | --- | --- |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | Mainstream RAG infra | Integrates the WFGY 16-problem RAG failure checklist into its official RAG troubleshooting docs as a structured failure mode reference. | [PR #20760](https://github.com/run-llama/llama_index/pull/20760) |
+| [ToolUniverse (Harvard MIMS Lab)](https://github.com/mims-harvard/ToolUniverse) | Academic lab / tools | Provides a `WFGY_triage_llm_rag_failure` tool that wraps the 16 mode map for incident triage. | [PR #75](https://github.com/mims-harvard/ToolUniverse/pull/75) |
+| [Rankify (Univ. of Innsbruck)](https://github.com/DataScienceUIBK/Rankify) | Academic lab / system | Uses the 16 failure patterns in RAG and re ranking troubleshooting docs. | [PR #76](https://github.com/DataScienceUIBK/Rankify/pull/76) |
+| [Multimodal RAG Survey (QCRI LLM Lab)](https://github.com/llm-lab-org/Multimodal-RAG-Survey) | Academic lab / survey | Cites WFGY as a practical diagnostic resource for multimodal RAG. | [PR #4](https://github.com/llm-lab-org/Multimodal-RAG-Survey/pull/4) |
+
+### 2. Curated lists & discussions
+
+| Project | How it uses WFGY ProblemMap |
+| --- | --- |
+| [Awesome Data Science – academic](https://github.com/academic/awesome-datascience) | Lists WFGY as a reference for LLM and RAG diagnostic workflows in data science infrastructure. |
+| [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | Lists WFGY as a tool for stress testing and validating RAG based financial systems. |
+| [Awesome AI Books](https://github.com/zslucky/awesome-ai-books) | Mentions the WFGY TXT and PDF packs in the LLM reading list. |
+| [Awesome AI Web Search (discussion 15)](https://github.com/felladrin/awesome-ai-web-search/discussions/15) | Discusses the 16 mode map as a candidate taxonomy for RAG failure modes. |
+| [Awesome AI System](https://github.com/lambda7xx/awesome-AI-system) | Lists WFGY under LLM robustness and debugging infrastructure. |
+| [Awesome AI Tools](https://github.com/eudk/awesome-ai-tools) | Includes WFGY as an open source framework for debugging LLM agents and RAG pipelines. |
+| [AI Agents for Cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity) | References the 16 mode map as a debugging guide for RAG heavy security agents. |
+| [Awesome Artificial Intelligence Research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) | Uses WFGY in its section on NLP reliability and system debugging. |
 
 
 ---
