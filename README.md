@@ -22,7 +22,7 @@ Over a year of focused development, now fully Open Source under the **MIT Licens
 * **WFGY 2.0 — Engineering & Production** 🛠️  
     > The production tension kernel + 16-mode Failure Map  
     > for real-world RAG stacks, vector stores, and deployment chaos.  
-    > ➔ [Core Engine](https://github.com/onestardao/WFGY/blob/main/core/README.md) · [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
+    > ➔ [Core Engine](https://github.com/onestardao/WFGY/blob/main/core/README.md) · [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) · [Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)
 
 * **WFGY 1.0 — Foundations & Theory** 📚  
     > The original mathematical playbook behind WFGY.  
