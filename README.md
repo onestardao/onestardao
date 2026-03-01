@@ -44,9 +44,9 @@ Everything here was built because a real-world system broke first. 🔧
 
 ## 🌐 Recognition & Ecosystem Integration
 
-WFGY has been recognized and integrated by mainstream RAG frameworks, academic labs, and curated open-source lists, and is increasingly used as a reference for LLM robustness, RAG diagnostics, and system reliability.
+As of 2026-03, the **WFGY RAG 16 Problem Map** line has been adopted or referenced by **20+ frameworks, academic labs, and curated lists** in the RAG and agent ecosystem.
 
-### 1. Core integrations & research
+Some representative integrations:
 
 | Project | Stars | Segment | How it uses WFGY ProblemMap | Proof (PR / doc) |
 | --- | --- | --- | --- | --- |
@@ -56,24 +56,12 @@ WFGY has been recognized and integrated by mainstream RAG frameworks, academic l
 | [Rankify (Univ. of Innsbruck)](https://github.com/DataScienceUIBK/Rankify) | [![GitHub Repo stars](https://img.shields.io/github/stars/DataScienceUIBK/Rankify?style=social)](https://github.com/DataScienceUIBK/Rankify) | Academic lab / system | Uses the 16 failure patterns in RAG and re-ranking troubleshooting docs. | [PR #76](https://github.com/DataScienceUIBK/Rankify/pull/76) |
 | [Multimodal RAG Survey (QCRI LLM Lab)](https://github.com/llm-lab-org/Multimodal-RAG-Survey) | [![GitHub Repo stars](https://img.shields.io/github/stars/llm-lab-org/Multimodal-RAG-Survey?style=social)](https://github.com/llm-lab-org/Multimodal-RAG-Survey) | Academic lab / survey | Cites WFGY as a practical diagnostic resource for multimodal RAG. | [PR #4](https://github.com/llm-lab-org/Multimodal-RAG-Survey/pull/4) |
 
-### 2. Curated lists & discussions
+Most external references today point to the **WFGY ProblemMap / 16-problem failure checklist**. A smaller but growing set also uses **WFGY 3.0 · Singularity Demo** as a long-horizon, TXT-based stress test.
 
-| Project | Stars | How it uses WFGY ProblemMap |
-| --- | --- | --- |
-| [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | [![GitHub Repo stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=social)](https://github.com/Shubhamsaboo/awesome-llm-apps) | Includes the **RAG Failure Diagnostics Clinic** tutorial, designed by the WFGY author as a small, framework-agnostic clinic built around the WFGY 16-problem failure map for hands-on RAG debugging. |
-| [Awesome Data Science – academic](https://github.com/academic/awesome-datascience) | [![GitHub Repo stars](https://img.shields.io/github/stars/academic/awesome-datascience?style=social)](https://github.com/academic/awesome-datascience) | Lists WFGY as a reference for LLM and RAG diagnostic workflows in data science infrastructure. |
-| [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) | [![GitHub Repo stars](https://img.shields.io/github/stars/ikaijua/Awesome-AITools?style=social)](https://github.com/ikaijua/Awesome-AITools) | Lists WFGY ProblemMap as an open-source RAG failure-mode checklist and diagnostics toolkit for LLM pipelines (data, embeddings, retrievers, tools, evaluation). |
-| [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) | [![GitHub Repo stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social)](https://github.com/georgezouq/awesome-ai-in-finance) | Lists WFGY as a tool for stress testing and validating RAG-based financial systems. |
-| [Awesome GPT Super Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) | [![GitHub Repo stars](https://img.shields.io/github/stars/CyberAlbSecOP/Awesome_GPT_Super_Prompting?style=social)](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) | Includes **onestardao/WFGY** under Secure Prompting as a structured 16 failure-mode map for RAG and agent pipelines, including prompt injection patterns with practical mitigation checklists. |
-| [awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) | [![GitHub Repo stars](https://img.shields.io/github/stars/nibzard/awesome-agentic-patterns?style=social)](https://github.com/nibzard/awesome-agentic-patterns) | Adds the **Reliability Problem Map Checklist for RAG and Agents** pattern in the Reliability & Eval category, based on the WFGY ProblemMap and linking back to WFGY as a reliability checklist for RAG-heavy agents. |
-| [Awesome AI Books](https://github.com/zslucky/awesome-ai-books) | [![GitHub Repo stars](https://img.shields.io/github/stars/zslucky/awesome-ai-books?style=social)](https://github.com/zslucky/awesome-ai-books) | Mentions the WFGY TXT and PDF packs in the LLM reading list. |
-| [Awesome AI Web Search (discussion 15)](https://github.com/felladrin/awesome-ai-web-search/discussions/15) | [![GitHub Repo stars](https://img.shields.io/github/stars/felladrin/awesome-ai-web-search?style=social)](https://github.com/felladrin/awesome-ai-web-search) | Discusses the 16 mode map as a candidate taxonomy for RAG failure modes in web search agents. |
-| [Awesome AI System](https://github.com/lambda7xx/awesome-AI-system) | [![GitHub Repo stars](https://img.shields.io/github/stars/lambda7xx/awesome-AI-system?style=social)](https://github.com/lambda7xx/awesome-AI-system) | Lists WFGY under LLM robustness and debugging infrastructure. |
-| [Awesome AI Tools](https://github.com/eudk/awesome-ai-tools) | [![GitHub Repo stars](https://img.shields.io/github/stars/eudk/awesome-ai-tools?style=social)](https://github.com/eudk/awesome-ai-tools) | Includes WFGY as an open-source framework for debugging LLM agents and RAG pipelines. |
-| [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) | [![GitHub Repo stars](https://img.shields.io/github/stars/zhangxjohn/LLM-Agent-Benchmark-List?style=social)](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) | Lists **WFGY 3.0 · Singularity Demo (BlackHole-131)** as a long-horizon, text-only stress test for LLM agents, covering 131 S-class problems for tension-based reasoning and robustness evaluation. |
-| [AI Agents for Cybersecurity](https://github.com/santosomar/AI-agents-for-cybersecurity) | [![GitHub Repo stars](https://img.shields.io/github/stars/santosomar/AI-agents-for-cybersecurity?style=social)](https://github.com/santosomar/AI-agents-for-cybersecurity) | References the 16 mode map as a debugging guide for RAG-heavy security agents. |
-| [Awesome Artificial Intelligence Research](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) | [![GitHub Repo stars](https://img.shields.io/github/stars/ThyrixYang/awesome-artificial-intelligence-research?style=social)](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) | Links to WFGY in the NLP section as a project on LLM robustness, debugging, and reliability. |
-| [Awesome-LLM-based-Evaluators](https://github.com/dependentsign/Awesome-LLM-based-Evaluators) | [![GitHub Repo stars](https://img.shields.io/github/stars/dependentsign/Awesome-LLM-based-Evaluators?style=social)](https://github.com/dependentsign/Awesome-LLM-based-Evaluators) | Lists **WFGY 3.0 · Singularity Demo** and the **WFGY ProblemMap** in its “Robustness & stress-test resources” section as a TXT-based long-horizon tension reasoning benchmark and failure map for RAG / LLM robustness evaluation. |
+This does not mean every project is using the full WFGY ecosystem. In most cases, WFGY appears as a ProblemMap-style diagnostic layer for RAG and agent pipelines.
+
+For the full, up-to-date 20+ project list (frameworks, benchmarks, and curated lists), see the  
+👉 **[WFGY Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)**..
 
 
 ---
