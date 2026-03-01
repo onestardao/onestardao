@@ -14,20 +14,30 @@ Over a year of focused development, now fully Open Source under the **MIT Licens
 
 ### 📍 Entry Points (Choose your depth)
 
-* **WFGY 3.0 — The Frontier (New Release)** 🌌  
+* **WFGY 3.0 — The Frontier Engine (New Release)** 🌌  
     > The flagship tension reasoning engine running on a 131 S-class backbone.  
     > If it works, nothing before it matters. Test it on your hardest questions first.  
     > ➔ [Singularity Demo](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
 
-* **WFGY 2.0 — Engineering & Production** 🛠️  
-    > The production tension kernel + 16-mode Failure Map  
-    > for real-world RAG stacks, vector stores, and deployment chaos.  
-    > ➔ [Core Engine](https://github.com/onestardao/WFGY/blob/main/core/README.md) · [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) · [Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)
+* **WFGY 2.0 — Engineering & Production Engine** 🛠️  
+    > The production tension kernel for real-world RAG stacks, vector stores, and deployment chaos.  
+    > Designed as the day-to-day engine you wire into infra and agents.  
+    > ➔ [Core Engine](https://github.com/onestardao/WFGY/blob/main/core/README.md)
 
-* **WFGY 1.0 — Foundations & Theory** 📚  
+* **WFGY 1.0 — Foundations & Theory Engine** 📚  
     > The original mathematical playbook behind WFGY.  
-    > Formulas, tension language, and the first self-healing framework.  
+    > Formulas, tension language, and the first self-healing framework packed into one PDF.  
     > ➔ [Legacy Theory](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)
+
+* **WFGY RAG 16 Problem Map** 🧩  
+    > Flagship 16-problem RAG failure checklist and fix map for broken RAG / agent pipelines.  
+    > Use this when your infra looks healthy but answers are still wrong.  
+    > ➔ [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
+
+* **WFGY Global Debug Card** 🖼️  
+    > Image-as-protocol layer for the 16 Problem Map.  
+    > Upload one poster plus (Q, E, P, A) context to any strong LLM and triage the run.  
+    > ➔ [Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)
 
 ---
 
