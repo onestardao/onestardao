@@ -60,8 +60,7 @@ Most external references today point to the **WFGY ProblemMap / 16-problem failu
 
 This does not mean every project is using the full WFGY ecosystem. In most cases, WFGY appears as a ProblemMap-style diagnostic layer for RAG and agent pipelines.
 
-For the full, up-to-date 20+ project list (frameworks, benchmarks, and curated lists), see the  
-👉 **[WFGY Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)**..
+For the full, up-to-date 20+ project list (frameworks, benchmarks, and curated lists), see the  👉 **[WFGY Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)**..
 
 
 <details>
