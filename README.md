@@ -29,38 +29,22 @@ If you do not fit neatly into any of the above, you can still start with the **P
 
 ---
 
-## 📍 Entry points into WFGY
+### 📍 Entry Points (choose your depth)
 
-Choose the entry that matches your current need.
+* **WFGY RAG 16 Problem Map** 🧩  
+    > Flagship 16-problem RAG failure checklist and fix map for broken RAG / agent pipelines.  
+    > Use this when your infra looks healthy but answers are still wrong.  
+    > ➔ [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
 
-### 1. Broken RAG or agent pipeline
+* **WFGY Global Debug Card** 🖼️  
+    > Image-as-protocol layer for the 16 Problem Map.  
+    > Upload one poster plus (Q, E, P, A) context to any strong LLM and triage the run.  
+    > ➔ [Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)
 
-Use this if your system is producing wrong, drifting, ungrounded, or unstable answers.
-
-- **WFGY RAG 16 Problem Map**  
-  Flagship 16-problem RAG failure checklist and fix map for broken RAG or agent pipelines.  
-  ➔ [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
-
-- **WFGY Global Debug Card**  
-  Image-as-protocol layer for the 16 Problem Map. Upload one poster plus (Q, E, P, A) context to any strong LLM and triage the run.  
-  ➔ [Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)
-
-### 2. Frontier TXT engine
-
-Use this if you want to test the TXT-based 131-problem stress-test engine directly.
-
-- **WFGY 3.0 · Singularity Demo**  
-  The flagship tension reasoning engine running on a 131 S-class backbone. Test it on your hardest questions first.  
-  ➔ [Event Horizon overview](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
-
-### 3. Guided onboarding
-
-If you are new and want a gentle walkthrough of the ecosystem:
-
-- **Starter Village Quickstart**  
-  A small guided route through ProblemMap, Global Debug Card, and WFGY 3.0 from a beginner perspective.  
-  ➔ [Starter Village Quickstart](https://github.com/onestardao/WFGY/blob/main/StarterVillage/README.md)
-
+* **WFGY 3.0 — Frontier TXT Engine** 🌌  
+    > TXT-based tension reasoning engine built on a 131 S-class backbone.  
+    > Use this when you want a long-horizon stress test for serious questions.  
+    > ➔ [Singularity Demo](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
 ---
 
 ## 🧪 Philosophy: fix-first reasoning
