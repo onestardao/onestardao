@@ -19,16 +19,6 @@ Over a year of focused development, now fully Open Source under the **MIT Licens
     > If it works, nothing before it matters. Test it on your hardest questions first.  
     > ➔ [Singularity Demo](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
 
-* **WFGY 2.0 — Engineering & Production Engine** 🛠️  
-    > The production tension kernel for real-world RAG stacks, vector stores, and deployment chaos.  
-    > Designed as the day-to-day engine you wire into infra and agents.  
-    > ➔ [Core Engine](https://github.com/onestardao/WFGY/blob/main/core/README.md)
-
-* **WFGY 1.0 — Foundations & Theory Engine** 📚  
-    > The original mathematical playbook behind WFGY.  
-    > Formulas, tension language, and the first self-healing framework packed into one PDF.  
-    > ➔ [Legacy Theory](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)
-
 * **WFGY RAG 16 Problem Map** 🧩  
     > Flagship 16-problem RAG failure checklist and fix map for broken RAG / agent pipelines.  
     > Use this when your infra looks healthy but answers are still wrong.  
