@@ -104,9 +104,15 @@ This does not mean every project is using the full WFGY ecosystem. In most cases
 
 If you maintain an AI system, research project, or infra stack and want to explore deeper collaboration around WFGY, you can:
 
+* ⭐️ **Work with WFGY**
+    > Structured entry point for collaboration, pilots, audits, and ecosystem partnerships.
+    > ➔ [Work with WFGY](https://github.com/onestardao/WFGY/blob/main/WORK_WITH_WFGY.md)
+
+Or you can:
+
 - open an issue in the main repo describing your use case and current failure modes,
 - reference the WFGY ProblemMap number that matches your problem if you already know it,
-- or reach out via Discord for more exploratory discussions.
+- or reach out via Discord for exploratory discussions.
 
 We are especially interested in:
 
