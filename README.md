@@ -66,6 +66,14 @@ If WFGY helps your workflow or thinking, a star on the repo helps others discove
 
 ## 🌐 Recognition and ecosystem integration
 
+If you want the shortest public adoption summary first, start here:
+
+- [ADOPTERS.md](https://github.com/onestardao/WFGY/blob/main/ADOPTERS.md)
+
+If you want the full continuously maintained ecosystem record, including broader curated lists and public mentions, see:
+
+- [WFGY Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)
+
 As of 2026-03, the **WFGY RAG 16 Problem Map** line has been adopted or referenced by **20+ frameworks, academic labs, and curated lists** in the RAG and agent ecosystem.
 
 Some representative integrations:
@@ -84,10 +92,6 @@ Most external references today point to the **WFGY ProblemMap / 16-problem failu
 A smaller but growing set also uses **WFGY 3.0 · Singularity Demo** as a long-horizon, TXT-based stress test.
 
 This does not mean every project is using the full WFGY ecosystem. In most cases, WFGY appears as a ProblemMap-style diagnostic layer for RAG and agent pipelines.
-
-For the full, up-to-date 20+ project list (frameworks, benchmarks, and curated lists), see:
-
-👉 **[WFGY Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)**
 
 ---
 
