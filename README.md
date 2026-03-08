@@ -70,7 +70,11 @@ If you want the shortest public adoption summary first, start here:
 
 - [ADOPTERS.md](https://github.com/onestardao/WFGY/blob/main/ADOPTERS.md)
 
-If you want the full continuously maintained ecosystem record, including broader curated lists and public mentions, see:
+If you want interpretation of what those ecosystem integrations suggest in practice:
+
+- [CASE_EVIDENCE.md](https://github.com/onestardao/WFGY/blob/main/CASE_EVIDENCE.md)
+
+If you want the full continuously maintained ecosystem record, including broader curated lists, citations, and public mentions, see:
 
 - [WFGY Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)
 
