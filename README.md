@@ -31,17 +31,17 @@ If you do not fit neatly into any of the above, you can still start with the **P
 
 ### 📍 Entry Points (choose your depth)
 
-* **WFGY RAG 16 Problem Map** 🧩  
+* ⭐️ **WFGY RAG 16 Problem Map**   
     > Flagship 16-problem RAG failure checklist and fix map for broken RAG / agent pipelines.  
     > Use this when your infra looks healthy but answers are still wrong.  
     > ➔ [16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
 
-* **WFGY Global Debug Card** 🖼️  
+* ⭐️ **WFGY Global Debug Card**   
     > Image-as-protocol layer for the 16 Problem Map.  
     > Upload one poster plus (Q, E, P, A) context to any strong LLM and triage the run.  
     > ➔ [Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)
 
-* **WFGY 3.0 — Frontier TXT Engine** 🌌  
+* ⭐️ **WFGY 3.0 — Frontier TXT Engine**   
     > TXT-based tension reasoning engine built on a 131 S-class backbone.  
     > Use this when you want a long-horizon stress test for serious questions.  
     > ➔ [Singularity Demo](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)
@@ -64,19 +64,26 @@ If WFGY helps your workflow or thinking, a star on the repo helps others discove
 
 ---
 
-## 🌐 Recognition and ecosystem integration
+### 🌐 Recognition and ecosystem integration
 
-If you want the shortest public adoption summary first, start here:
+* ⭐️ **WFGY Adopters**   
+    > Shortest public adoption summary of where the WFGY RAG Problem Map has been integrated.  
+    > Useful if you want to quickly see which frameworks or projects have already adopted it.  
+    > ➔ [Adopters](https://github.com/onestardao/WFGY/blob/main/ADOPTERS.md)
 
-- [ADOPTERS.md](https://github.com/onestardao/WFGY/blob/main/ADOPTERS.md)
+* ⭐️ **WFGY Case Evidence**   
+    > Interpretation layer explaining what those integrations actually imply for real systems.  
+    > Highlights the types of failures and debugging patterns where WFGY proved useful.  
+    > ➔ [Case Evidence](https://github.com/onestardao/WFGY/blob/main/CASE_EVIDENCE.md)
 
-If you want interpretation of what those ecosystem integrations suggest in practice:
+* ⭐️ **WFGY Recognition Map**   
+    > Continuously maintained ecosystem record including curated lists, academic references, and public mentions.  
+    > This is the full evidence layer behind the public adoption summary.  
+    > ➔ [Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)
 
-- [CASE_EVIDENCE.md](https://github.com/onestardao/WFGY/blob/main/CASE_EVIDENCE.md)
+> As of 2026-03, the **WFGY RAG 16 Problem Map** line has been adopted or referenced by **20+ frameworks, academic labs, and curated lists** in the RAG and agent ecosystem.
 
-If you want the full continuously maintained ecosystem record, including broader curated lists, citations, and public mentions, see:
-
-- [WFGY Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)
+As of 2026-03, the **WFGY RAG 16 Problem Map** line has been adopted or referenced by **20+ frameworks, academic labs, and curated lists** in the RAG and agent ecosystem.
 
 As of 2026-03, the **WFGY RAG 16 Problem Map** line has been adopted or referenced by **20+ frameworks, academic labs, and curated lists** in the RAG and agent ecosystem.
 
