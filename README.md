@@ -31,7 +31,6 @@
 
 * ⭐️ **[WFGY RAG 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)**: 16-problem RAG failure checklist and fix map for broken RAG and agent pipelines.
 * ⭐️ **[WFGY Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)**: image-first triage layer for diagnosing a single failing run.
-* ⭐️ **[Global Fix Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/GlobalFixMap/README.md)**: cross-tool guardrails and fix patterns for common failure surfaces.
 * ⭐️ **[WFGY 1.0](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)**: earliest public conceptual foundation.
 * ⭐️ **[WFGY 2.0](https://github.com/onestardao/WFGY/blob/main/core/README.md)**: current reasoning and diagnostic kernel.
 * ⭐️ **[WFGY 3.0](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)**: frontier TXT-based reasoning and evaluation surface.
