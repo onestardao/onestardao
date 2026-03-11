@@ -9,7 +9,7 @@
 
 ### Quick navigation
 
-* ⭐️ **[Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)**: fastest practical entry for broken RAG and agent pipelines.
+* ⭐️ **[16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)**: fastest practical entry for broken RAG and agent pipelines.
 * ⭐️ **[Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)**: image-first triage layer on top of the Problem Map.
 * ⭐️ **[Ecosystem Map](https://github.com/onestardao/WFGY/blob/main/ECOSYSTEM_MAP.md)**: canonical map of how the public WFGY system fits together.
 * ⭐️ **[WFGY 3.0](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)**: frontier reasoning and long-horizon evaluation surface.
