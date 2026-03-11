@@ -1,4 +1,4 @@
-![twin_flame](https://github.com/user-attachments/assets/07ed4b8d-ae1b-4117-ae6e-05d7013133fa)
+
 
 ## 1️⃣ The WFGY ecosystem
 
