@@ -19,7 +19,7 @@
 <!-- Example:
 ![PSBigBig shoots at Trouble](./path/to/profile-hero.png)
 -->
-![twin_flame](https://github.com/user-attachments/assets/13a39411-5e94-44b4-b45b-75f7e47909e3)
+[![twin_flame](https://github.com/user-attachments/assets/13a39411-5e94-44b4-b45b-75f7e47909e3)](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-ai-problem-map-troubleshooting-atlas.md)
 
 ---
 
