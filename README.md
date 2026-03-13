@@ -1,67 +1,84 @@
-
-
-## 1️⃣ The WFGY ecosystem
+## WFGY, led by the AI Troubleshooting Atlas
 
 > We build **WFGY**, an open-source reasoning and debugging ecosystem for AI systems.  
-> One lineage, multiple public entry points. Not a random collection of tools.
+> The strongest practical entry point is now the **AI Troubleshooting Atlas**.
 >
-> Over a year of focused development, now fully open sourced under the **MIT License**.
+> One lineage, multiple public entry points, one growing ecosystem under the **MIT License**.
 
 ### Quick navigation
 
-* ⭐️ **[16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)**: fastest practical entry for broken RAG and agent pipelines.
-* ⭐️ **[Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)**: image-first triage layer on top of the Problem Map.
-* ⭐️ **[Ecosystem Map](https://github.com/onestardao/WFGY/blob/main/ECOSYSTEM_MAP.md)**: canonical map of how the public WFGY system fits together.
-* ⭐️ **[WFGY 3.0](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)**: frontier reasoning and long-horizon evaluation surface.
+* ⭐️ **[AI Troubleshooting Atlas](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-ai-problem-map-troubleshooting-atlas.md)** : the main practical entry for broken RAG, agent, and AI workflows.
+* ⭐️ **[Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)** : image-first triage for a single failing run.
+* ⭐️ **[Ecosystem Map](https://github.com/onestardao/WFGY/blob/main/ECOSYSTEM_MAP.md)** : canonical map of how the public WFGY system fits together.
+* ⭐️ **[WFGY 3.0](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)** : frontier reasoning and long-horizon evaluation surface.
+
+> If WFGY helps your workflow or thinking, a ⭐ on the repo helps more people discover it.
+
+<!-- PROFILE HERO IMAGE PLACEHOLDER -->
+<!-- Put your archer-vs-trouble hero image directly below this line -->
+<!-- Example:
+![PSBigBig shoots at Trouble](./path/to/profile-hero.png)
+-->
 
 ---
 
-## 2️⃣ Who is WFGY for?
+## Who is WFGY for
 
 > WFGY is for people who need structured debugging and serious reasoning, not just another prompt recipe.
->
-> - **RAG and agent teams**: pipelines run, infra looks healthy, but answers are still wrong or unstable.
-> - **Infra and platform owners**: you need a way to audit reasoning behavior across models, tenants, or deployments.
-> - **Researchers and evaluation teams**: you study long-horizon reasoning, safety, or stress tests and want concrete observables.
-> - **Founders, PMs, and domain experts**: you hold a few difficult questions in finance, climate, AI, or society and want to see how a structured system treats them.
->
-> If you do not fit neatly into any of the above, you can still start with the **Problem Map** or the **Global Debug Card** and use them as diagnostic checklists for your own systems.
+
+* **RAG and agent teams** : pipelines run, infra looks healthy, but answers are still wrong or unstable.
+* **Infra and platform owners** : you need a way to inspect and route failures across models, tenants, or deployments.
+* **Researchers and evaluation teams** : you study reasoning, robustness, safety, or stress tests and want concrete observables.
+* **Founders, PMs, and domain experts** : you carry difficult AI workflows and want a more structured system for treating them.
+
+> If you do not fit neatly into any of the above, start with the **Atlas** or the **Global Debug Card**.
 
 ### Entry points
 
-* ⭐️ **[WFGY RAG 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)**: 16-problem RAG failure checklist and fix map for broken RAG and agent pipelines.
-* ⭐️ **[WFGY Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)**: image-first triage layer for diagnosing a single failing run.
-* ⭐️ **[WFGY 1.0](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)**: earliest public conceptual foundation.
-* ⭐️ **[WFGY 2.0](https://github.com/onestardao/WFGY/blob/main/core/README.md)**: current reasoning and diagnostic kernel.
-* ⭐️ **[WFGY 3.0](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)**: frontier TXT-based reasoning and evaluation surface.
+* ⭐️ **[AI Troubleshooting Atlas](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-ai-problem-map-troubleshooting-atlas.md)** : route-first troubleshooting surface for real AI failures.
+* ⭐️ **[WFGY RAG 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)** : classic 16-problem checklist for broken RAG flows.
+* ⭐️ **[WFGY Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)** : image-first triage layer for diagnosing a single failing run.
+* ⭐️ **[WFGY 1.0](https://github.com/onestardao/WFGY/blob/main/legacy/README.md)** : earliest public conceptual foundation.
+* ⭐️ **[WFGY 2.0](https://github.com/onestardao/WFGY/blob/main/core/README.md)** : current reasoning and diagnostic kernel.
+* ⭐️ **[WFGY 3.0](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)** : frontier TXT-based reasoning and evaluation surface.
 
 ---
 
-## 3️⃣ Why WFGY looks like an ecosystem
+## Why WFGY looks like an ecosystem
 
-> WFGY is not a single page or a single claim.
->
-> The public system is easiest to read as:
->
-> - **one version lineage**: WFGY 1.0 → WFGY 2.0 → WFGY 3.0
-> - **one strong practical wedge**: Problem Map, Global Debug Card, Semantic Clinic, and Global Fix Map
-> - **one wider application and evaluation surface**: TXTOS, related modules, and WFGY 3.0
-> - **one public proof and collaboration layer**: Adopters, Case Evidence, Recognition Map, Evidence Timeline, Work with WFGY, and Support
->
-> The goal is simple: make reasoning failures visible, reproducible, and fixable.
+> WFGY is not a single page, a single chart, or a single claim.
 
-If WFGY helps your workflow or thinking, a star on the repo helps others discover it.
+The public system is easiest to read as:
+
+* **one version lineage** : WFGY 1.0 → WFGY 2.0 → WFGY 3.0
+* **one strong practical wedge** : AI Troubleshooting Atlas, Problem Map, Global Debug Card, and Global Fix Map
+* **one wider application and evaluation surface** : TXTOS, related modules, and WFGY 3.0
+* **one public proof and collaboration layer** : Adopters, Case Evidence, Recognition Map, Evidence Timeline, Work with WFGY, and Support
+
+> The goal is simple: make reasoning failures more visible, reproducible, and fixable.
 
 ---
 
-## 4️⃣ Public proof and ecosystem integration
+## Public proof and ecosystem integration
 
-* ⭐️ **[Adopters](https://github.com/onestardao/WFGY/blob/main/ADOPTERS.md)**: shortest public adoption summary.
-* ⭐️ **[Case Evidence](https://github.com/onestardao/WFGY/blob/main/CASE_EVIDENCE.md)**: interpretation layer explaining what those integrations imply in real systems.
-* ⭐️ **[Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)**: broader ecosystem record of integrations, citations, curated lists, and public mentions.
-* ⭐️ **[Evidence Timeline](https://github.com/onestardao/WFGY/blob/main/EVIDENCE_TIMELINE.md)**: historical timeline of how WFGY became public, usable, and externally legible.
+* ⭐️ **[Adopters](https://github.com/onestardao/WFGY/blob/main/ADOPTERS.md)** : shortest public adoption summary.
+* ⭐️ **[Case Evidence](https://github.com/onestardao/WFGY/blob/main/CASE_EVIDENCE.md)** : what those integrations imply in real systems.
+* ⭐️ **[Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)** : broader ecosystem record of integrations, citations, curated lists, and public mentions.
+* ⭐️ **[Evidence Timeline](https://github.com/onestardao/WFGY/blob/main/EVIDENCE_TIMELINE.md)** : historical timeline of how WFGY became public, usable, and externally legible.
 
-Representative integrations:
+Most current public references point first to the **WFGY ProblemMap / 16-problem failure checklist** line.  
+A smaller but growing set also uses **WFGY 3.0** as a long-horizon, TXT-based reasoning and evaluation surface.
+
+This does not mean every project uses the full WFGY ecosystem.  
+In many cases, WFGY appears first as a practical diagnostic layer for RAG and agent pipelines.
+
+<details>
+<summary><strong> Representative integrations </strong></summary>
+
+<br/>
+
+<!-- REPRESENTATIVE INTEGRATIONS TABLE PLACEHOLDER -->
+<!-- Put your full integrations table here -->
 
 | Project | Stars | Segment | How it uses WFGY ProblemMap | Proof (PR / doc) |
 | --- | --- | --- | --- | --- |
@@ -74,36 +91,40 @@ Representative integrations:
 | [Multimodal RAG Survey (QCRI LLM Lab)](https://github.com/llm-lab-org/Multimodal-RAG-Survey) | [![GitHub Repo stars](https://img.shields.io/github/stars/llm-lab-org/Multimodal-RAG-Survey?style=social)](https://github.com/llm-lab-org/Multimodal-RAG-Survey) | Academic lab / survey | Cites WFGY as a practical diagnostic resource for multimodal RAG. | [PR #4](https://github.com/llm-lab-org/Multimodal-RAG-Survey/pull/4) |
 | [LightAgent](https://github.com/wanxingai/LightAgent) | [![GitHub Repo stars](https://img.shields.io/github/stars/wanxingai/LightAgent?style=social)](https://github.com/wanxingai/LightAgent) | Agent framework | Incorporates WFGY ProblemMap concepts into its documentation via a **Multi-agent troubleshooting (failure map)** section, providing a structured symptom → failure-mode → debugging checklist for diagnosing role drift, cross-agent memory issues, and coordination failures in multi-agent systems. | [PR #24](https://github.com/wanxingai/LightAgent/pull/24#event-23265428525) |
 
-Most current public references point to the **WFGY ProblemMap / 16-problem failure checklist** line.  
-A smaller but growing set also uses **WFGY 3.0** as a long-horizon, TXT-based reasoning and evaluation surface.
-
-This does not mean every project uses the full WFGY ecosystem.  
-In most cases, WFGY appears first as a ProblemMap-style diagnostic layer for RAG and agent pipelines.
+</details>
 
 ---
 
-## 5️⃣ Work with or support WFGY
+## Work with or support WFGY
 
 > If you maintain an AI system, research project, or infra platform and want to explore collaboration around WFGY, start here:
->
-> * ⭐️ **[Work with WFGY](https://github.com/onestardao/WFGY/blob/main/WORK_WITH_WFGY.md)**: entry point for pilots, audits, and structured collaboration.
-> * ⭐️ **[Pilot Offer One-Pager](https://github.com/onestardao/WFGY/blob/main/PILOT_OFFER_ONE_PAGER.md)**: compact view of what a WFGY pilot can look like.
-> * ⭐️ **[Sample Deliverable](https://github.com/onestardao/WFGY/blob/main/SAMPLE_DELIVERABLE.md)**: sample structure of a WFGY pilot return package.
->
-> If you want to help sustain the public ecosystem instead:
->
-> * ⭐️ **[Support WFGY](https://github.com/onestardao/WFGY/blob/main/SUPPORT.md)**: support the continued development of the public WFGY ecosystem.
->
-> You can also:
->
-> - open an issue describing your system and current failure modes,
-> - reference the matching **WFGY ProblemMap** number if you already know it,
-> - or reach out via Discord for exploratory discussion.
->
-> We are especially interested in:
->
-> - **RAG or agent teams** testing WFGY diagnostics in production-like environments,
-> - **research groups** designing stress tests or observables on the 131-problem atlas,
-> - **platform owners** exposing WFGY-style diagnostics to their users.
->
+
+* ⭐️ **[Work with WFGY](https://github.com/onestardao/WFGY/blob/main/WORK_WITH_WFGY.md)** : entry point for pilots, audits, and structured collaboration.
+* ⭐️ **[Pilot Offer One-Pager](https://github.com/onestardao/WFGY/blob/main/PILOT_OFFER_ONE_PAGER.md)** : compact view of what a WFGY pilot can look like.
+* ⭐️ **[Sample Deliverable](https://github.com/onestardao/WFGY/blob/main/SAMPLE_DELIVERABLE.md)** : sample structure of a WFGY pilot return package.
+* ⭐️ **[Support WFGY](https://github.com/onestardao/WFGY/blob/main/SUPPORT.md)** : support the continued development of the public ecosystem.
+
+You can also:
+
+* open an issue describing your current system and failure modes
+* reference the matching **WFGY ProblemMap** number if you already know it
+* reach out via Discord for exploratory discussion
+
+We are especially interested in:
+
+* **RAG or agent teams** testing WFGY diagnostics in production-like settings
+* **research groups** designing stress tests or observables on the atlas line
+* **platform owners** exposing WFGY-style diagnostics to their users
+
 > The long-term goal is simple: make reasoning and debugging layers a normal, visible part of AI systems.
+
+---
+
+## Explore more
+
+* ⭐️ **[Main WFGY repository](https://github.com/onestardao/WFGY)**  
+* ⭐️ **[AI Troubleshooting Atlas](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-ai-problem-map-troubleshooting-atlas.md)**  
+* ⭐️ **[Ecosystem Map](https://github.com/onestardao/WFGY/blob/main/ECOSYSTEM_MAP.md)**  
+* ⭐️ **[Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)**  
+
+> If this ecosystem is useful to you, a ⭐ helps more people discover it.
