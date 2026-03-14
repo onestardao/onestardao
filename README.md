@@ -1,4 +1,4 @@
-## WFGY, led by the AI Troubleshooting Atlas
+## WFGY, led by the AI Troubleshooting Atlas 🗺
 
 > We build **WFGY**, an open-source reasoning and debugging ecosystem for AI systems.  
 > The strongest practical entry point is now the **AI Troubleshooting Atlas**.
