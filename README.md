@@ -19,7 +19,8 @@
 <!-- Example:
 ![PSBigBig shoots at Trouble](./path/to/profile-hero.png)
 -->
-[![twin_flame](https://github.com/user-attachments/assets/13a39411-5e94-44b4-b45b-75f7e47909e3)](https://github.com/onestardao/WFGY)
+[![twin_flame](https://github.com/onestardao/WFGY/blob/main/I_am_not_lizardman/TwinFlame.png)](https://github.com/onestardao/WFGY)
+
 
 ---
 
