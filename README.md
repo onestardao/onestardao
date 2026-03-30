@@ -1,4 +1,4 @@
-## WFGY, led by the AI Troubleshooting Atlas 🗺
+## WFGY, led by the AI Troubleshooting Atlas
 
 > We build **WFGY**, an open-source reasoning and debugging ecosystem for AI systems.  
 > The strongest practical entry point is now the **AI Troubleshooting Atlas**.
@@ -12,16 +12,16 @@
 * ⭐️ **[Ecosystem Map](https://github.com/onestardao/WFGY/blob/main/ECOSYSTEM_MAP.md)** : canonical map of how the public WFGY system fits together.
 * ⭐️ **[WFGY 3.0](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)** : frontier reasoning and long-horizon evaluation surface.
 
-> If WFGY helps your workflow or thinking, a ⭐ on the repo helps more people discover it.
+### Trusted open-source support
 
-<!-- PROFILE HERO IMAGE PLACEHOLDER -->
-<!-- Put your archer-vs-trouble hero image directly below this line -->
-<!-- Example:
-![PSBigBig shoots at Trouble](./path/to/profile-hero.png)
--->
+> Supported through selected open-source programs, sponsored plans, and infrastructure credits.
+
+[![WFGY Trust Wall](https://github.com/user-attachments/assets/28e47e15-e287-4e7b-b0f5-4f3b4dfed178)](https://github.com/onestardao/WFGY/blob/main/ADOPTERS.md)
+
+> Public adoption and public support are not the same thing.  
+> This support surface sits alongside the adoption and ecosystem proof pages below.
 
 [![WFGY Twin Flame](https://raw.githubusercontent.com/onestardao/WFGY/main/I_am_not_lizardman/TwinFlame.png)](https://github.com/onestardao/WFGY)
-
 
 ---
 
@@ -79,9 +79,6 @@ In many cases, WFGY appears first as a practical diagnostic layer for RAG and ag
 <summary><strong> Representative integrations </strong></summary>
 
 <br/>
-
-<!-- REPRESENTATIVE INTEGRATIONS TABLE PLACEHOLDER -->
-<!-- Put your full integrations table here -->
 
 | Project | Stars | Segment | How it uses WFGY ProblemMap | Proof (PR / doc) |
 | --- | --- | --- | --- | --- |
