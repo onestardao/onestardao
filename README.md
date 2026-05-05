@@ -1,3 +1,12 @@
+> [!NOTE]
+> **WFGY is almost at 5.0.**  
+> WFGY 5.0 Polaris Protocol is a major release built from the full path of WFGY 1.0, 2.0, 3.0, and 4.0, plus everything I, PSBigBig, have learned through this long journey.  
+> It has not been an easy road, so I am taking a little more time to polish the release before it goes online.  
+> As a thank you for waiting and supporting WFGY, I am sharing a small gift before 5.0 arrives: **Cite First Verification**, a WFGY Easter Egg.  
+>  
+> **[Open the CFV Easter Egg](https://github.com/onestardao/WFGY/tree/main/EasterEggs/CiteFirstVerification)**  
+> **[Preview WFGY 5.0 Polaris Protocol](https://github.com/onestardao/WFGY/blob/main/Polaris/README.md)**
+
 ## WFGY, led by the AI Troubleshooting Atlas
 
 > We build **WFGY**, an open-source reasoning and debugging ecosystem for AI systems.  
