@@ -1,22 +1,28 @@
 > [!NOTE]
-> **WFGY is almost at 5.0.**  
-> WFGY 5.0 Polaris Protocol is a major release built from the full path of WFGY 1.0, 2.0, 3.0, and 4.0, plus everything I, PSBigBig, have learned through this long journey.  
-> It has not been an easy road, so I am taking a little more time to polish the release before it goes online.  
-> As a thank you for waiting and supporting WFGY, I am sharing a small gift before 5.0 arrives: **Cite First Verification**, a WFGY Easter Egg.  
->  
+> **WFGY 5.0 Polaris Protocol is now moving through a staged functional rollout.**  
+> WFGY 5.0 has grown into multiple public layers: evidence packages, portable protocols, reproducibility materials, runtime structures, and deeper engine components.  
+> Instead of making everyone wait for one giant release, useful parts will now be released in batches.
+>
+> The earlier **Cite First Verification** release was a small WFGY Easter Egg during the schedule adjustment. The first public portable protocol component is now available: **Polaris Goal Compiler**.
+>
 > **[Open the CFV Easter Egg](https://github.com/onestardao/WFGY/tree/main/EasterEggs/CiteFirstVerification)**  
-> **[Preview WFGY 5.0 Polaris Protocol](https://github.com/onestardao/WFGY/blob/main/Polaris/README.md)**
+> **[Open Polaris Goal Compiler](https://github.com/onestardao/WFGY/blob/main/Polaris/protocols/goal-compiler/README.md)**  
+> **[Preview WFGY 5.0 Polaris Protocol](https://github.com/onestardao/WFGY/blob/main/Polaris/README.md)**  
+> **[Join the WFGY Discord](https://discord.gg/KRxBsr6GYx)**
 
-## WFGY, led by the AI Troubleshooting Atlas
+## WFGY, led by WFGY 5.0 Polaris Protocol
 
-> We build **WFGY**, an open-source reasoning and debugging ecosystem for AI systems.  
-> The strongest practical entry point is now the **AI Troubleshooting Atlas**.
+> We build **WFGY**, an open-source reasoning, debugging, and protocol ecosystem for AI systems.  
+> The current flagship public route is **WFGY 5.0 Polaris Protocol**, now being released through a staged functional rollout.
 >
 > One lineage, multiple public entry points, one growing ecosystem under the **MIT License**.
 
 ### Quick navigation
 
-* ⭐️ **[AI Troubleshooting Atlas](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-ai-problem-map-troubleshooting-atlas.md)** : the main practical entry for broken RAG, agent, and AI workflows.
+* ⭐️ **[WFGY 5.0 Polaris Protocol](https://github.com/onestardao/WFGY/blob/main/Polaris/README.md)** : flagship public route for staged WFGY 5.0 release.
+* ⭐️ **[Polaris Goal Compiler](https://github.com/onestardao/WFGY/blob/main/Polaris/protocols/goal-compiler/README.md)** : first public portable protocol component for human-AI execution workflows.
+* ⭐️ **[Polaris Experiments](https://github.com/onestardao/WFGY/blob/main/Polaris/experiments/README.md)** : public evidence packages with raw outputs, parsed outputs, verdicts, audits, token records, and hashes.
+* ⭐️ **[AI Troubleshooting Atlas](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-ai-problem-map-troubleshooting-atlas.md)** : practical entry for broken RAG, agent, and AI workflows.
 * ⭐️ **[Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)** : image-first triage for a single failing run.
 * ⭐️ **[Ecosystem Map](https://github.com/onestardao/WFGY/blob/main/ECOSYSTEM_MAP.md)** : canonical map of how the public WFGY system fits together.
 * ⭐️ **[WFGY 3.0](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)** : frontier reasoning and long-horizon evaluation surface.
@@ -34,6 +40,52 @@
 
 ---
 
+## What WFGY 5.0 is doing now
+
+> WFGY 5.0 Polaris Protocol is not being released as one single drop.  
+> It is being opened batch by batch so each layer can be inspected, tested, and used properly.
+
+The current WFGY 5.0 public route includes:
+
+* **public evidence first** : experiment packages, raw outputs, parsed outputs, verdicts, audits, token records, and hashes
+* **portable protocol components** : practical protocol files users can download, paste, and test
+* **reproducibility materials later** : future Colab and reproduction workflows
+* **deeper engine layers later** : runtime structures and mathematical spine materials released step by step
+
+Currently public WFGY 5.0 materials:
+
+* ⭐️ **[Cite First Verification](https://github.com/onestardao/WFGY/tree/main/EasterEggs/CiteFirstVerification)** : early WFGY Easter Egg released during the schedule adjustment.
+* ⭐️ **[Polaris Goal Compiler](https://github.com/onestardao/WFGY/blob/main/Polaris/protocols/goal-compiler/README.md)** : first public portable protocol component.
+* ⭐️ **[Polaris Experiments](https://github.com/onestardao/WFGY/blob/main/Polaris/experiments/README.md)** : first public evidence layer.
+
+---
+
+## First portable protocol component
+
+> **Polaris Goal Compiler** is the first public protocol component released under the WFGY 5.0 Polaris line.
+
+Polaris Goal Compiler is a portable human-AI execution protocol for assistants, agents, and skill-based workflows.
+
+It helps AI systems avoid treating raw natural language as if it were already an executable task.
+
+It focuses on:
+
+* compiling user goals before construction
+* separating truth work from expression work
+* exposing the active task
+* exposing blocked downstream work
+* preventing premature completion claims
+* verifying before unlock
+* making long AI workflows easier to inspect
+
+Start here:
+
+* ⭐️ **[Open Polaris Goal Compiler](https://github.com/onestardao/WFGY/blob/main/Polaris/protocols/goal-compiler/README.md)**
+* ⭐️ **[Preview WFGY 5.0 Polaris Protocol](https://github.com/onestardao/WFGY/blob/main/Polaris/README.md)**
+* ⭐️ **[Join the WFGY Discord](https://discord.gg/KRxBsr6GYx)**
+
+---
+
 ## Who is WFGY for
 
 > WFGY is for people who need structured debugging and serious reasoning, not just another prompt recipe.
@@ -42,11 +94,15 @@
 * **Infra and platform owners** : you need a way to inspect and route failures across models, tenants, or deployments.
 * **Researchers and evaluation teams** : you study reasoning, robustness, safety, or stress tests and want concrete observables.
 * **Founders, PMs, and domain experts** : you carry difficult AI workflows and want a more structured system for treating them.
+* **AI builders and workflow designers** : you want portable protocol components that make long AI tasks easier to inspect and harder to fake.
 
-> If you do not fit neatly into any of the above, start with the **Atlas** or the **Global Debug Card**.
+> If you do not fit neatly into any of the above, start with **Polaris Goal Compiler**, the **AI Troubleshooting Atlas**, or the **Global Debug Card**.
 
 ### Entry points
 
+* ⭐️ **[WFGY 5.0 Polaris Protocol](https://github.com/onestardao/WFGY/blob/main/Polaris/README.md)** : current flagship public route.
+* ⭐️ **[Polaris Goal Compiler](https://github.com/onestardao/WFGY/blob/main/Polaris/protocols/goal-compiler/README.md)** : first portable protocol component.
+* ⭐️ **[Polaris Experiments](https://github.com/onestardao/WFGY/blob/main/Polaris/experiments/README.md)** : public evidence layer.
 * ⭐️ **[AI Troubleshooting Atlas](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-ai-problem-map-troubleshooting-atlas.md)** : route-first troubleshooting surface for real AI failures.
 * ⭐️ **[WFGY RAG 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)** : classic 16-problem checklist for broken RAG flows.
 * ⭐️ **[WFGY Global Debug Card](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-rag-16-problem-map-global-debug-card.md)** : image-first triage layer for diagnosing a single failing run.
@@ -62,12 +118,13 @@
 
 The public system is easiest to read as:
 
-* **one version lineage** : WFGY 1.0 → WFGY 2.0 → WFGY 3.0
+* **one version lineage** : WFGY 1.0 → WFGY 2.0 → WFGY 3.0 → WFGY 4.0 → WFGY 5.0 Polaris Protocol
+* **one flagship public route** : WFGY 5.0 Polaris Protocol
+* **one staged release model** : evidence first, portable protocols next, deeper engine layers later
 * **one strong practical wedge** : AI Troubleshooting Atlas, Problem Map, Global Debug Card, and Global Fix Map
-* **one wider application and evaluation surface** : TXTOS, related modules, and WFGY 3.0
 * **one public proof and collaboration layer** : Adopters, Case Evidence, Recognition Map, Evidence Timeline, Work with WFGY, and Support
 
-> The goal is simple: make reasoning failures more visible, reproducible, and fixable.
+> The goal is simple: make reasoning failures more visible, reproducible, inspectable, and fixable.
 
 ---
 
@@ -79,7 +136,8 @@ The public system is easiest to read as:
 * ⭐️ **[Evidence Timeline](https://github.com/onestardao/WFGY/blob/main/EVIDENCE_TIMELINE.md)** : historical timeline of how WFGY became public, usable, and externally legible.
 
 Most current public references point first to the **WFGY ProblemMap / 16-problem failure checklist** line.  
-A smaller but growing set also uses **WFGY 3.0** as a long-horizon, TXT-based reasoning and evaluation surface.
+A smaller but growing set also uses **WFGY 3.0** as a long-horizon, TXT-based reasoning and evaluation surface.  
+WFGY 5.0 Polaris Protocol is now becoming the new flagship public route through staged release.
 
 This does not mean every project uses the full WFGY ecosystem.  
 In many cases, WFGY appears first as a practical diagnostic layer for RAG and agent pipelines.
@@ -112,6 +170,7 @@ In many cases, WFGY appears first as a practical diagnostic layer for RAG and ag
 * ⭐️ **[Pilot Offer One-Pager](https://github.com/onestardao/WFGY/blob/main/PILOT_OFFER_ONE_PAGER.md)** : compact view of what a WFGY pilot can look like.
 * ⭐️ **[Sample Deliverable](https://github.com/onestardao/WFGY/blob/main/SAMPLE_DELIVERABLE.md)** : sample structure of a WFGY pilot return package.
 * ⭐️ **[Support WFGY](https://github.com/onestardao/WFGY/blob/main/SUPPORT.md)** : support the continued development of the public ecosystem.
+* ⭐️ **[Join the WFGY Discord](https://discord.gg/KRxBsr6GYx)** : follow staged release updates and discuss future components.
 
 You can also:
 
@@ -124,6 +183,7 @@ We are especially interested in:
 * **RAG or agent teams** testing WFGY diagnostics in production-like settings
 * **research groups** designing stress tests or observables on the atlas line
 * **platform owners** exposing WFGY-style diagnostics to their users
+* **AI builders** testing portable protocol components such as Polaris Goal Compiler
 
 > The long-term goal is simple: make reasoning and debugging layers a normal, visible part of AI systems.
 
@@ -132,8 +192,12 @@ We are especially interested in:
 ## Explore more
 
 * ⭐️ **[Main WFGY repository](https://github.com/onestardao/WFGY)**  
+* ⭐️ **[WFGY 5.0 Polaris Protocol](https://github.com/onestardao/WFGY/blob/main/Polaris/README.md)**  
+* ⭐️ **[Polaris Goal Compiler](https://github.com/onestardao/WFGY/blob/main/Polaris/protocols/goal-compiler/README.md)**  
+* ⭐️ **[Polaris Experiments](https://github.com/onestardao/WFGY/blob/main/Polaris/experiments/README.md)**  
 * ⭐️ **[AI Troubleshooting Atlas](https://github.com/onestardao/WFGY/blob/main/ProblemMap/wfgy-ai-problem-map-troubleshooting-atlas.md)**  
 * ⭐️ **[Ecosystem Map](https://github.com/onestardao/WFGY/blob/main/ECOSYSTEM_MAP.md)**  
 * ⭐️ **[Recognition Map](https://github.com/onestardao/WFGY/blob/main/recognition/README.md)**  
+* ⭐️ **[Join the WFGY Discord](https://discord.gg/KRxBsr6GYx)**  
 
 > If this ecosystem is useful to you, a ⭐ helps more people discover it.
